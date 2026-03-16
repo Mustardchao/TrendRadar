@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T00:51:23.821047+08:00",
+  "generated_at": "2026-03-17T00:56:55.856331+08:00",
   "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "【特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全】美国总统特朗普16日对媒体表示，希望欧洲国家以及日本、韩国等国协助保障霍尔木兹海峡航行安全。 (新华社)",
@@ -69,9 +69,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
@@ -81,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -92,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -103,8 +103,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来美国。",
@@ -113,9 +113,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
@@ -124,9 +124,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：英国国王很快就要来访。",
@@ -135,9 +135,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：还有比现在更好的降息时机吗？",
@@ -146,9 +146,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "特朗普敦促鲍威尔召开美联储特别会议，要求“立即”降息",
@@ -157,9 +157,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉（市场）。 将在委内瑞拉迅速地增产石油。",
@@ -168,9 +168,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：美联储应立即召开特别会议降息。",
@@ -179,9 +179,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：伊朗现在是纸老虎（Paper Tiger）。",
@@ -190,9 +190,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普在肯尼迪中心讲话，宣称：将讨论中东问题。",
@@ -201,9 +201,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：大公司正在进入委内瑞拉，将迅速提升委内瑞拉的石油生产。",
@@ -212,9 +212,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉“是一个巨大的石油来源”。",
@@ -223,9 +223,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：我们已从委内瑞拉运出了数百万桶石油。",
@@ -234,9 +234,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：美国目前石油产量位居世界第一，且产量翻倍。",
@@ -245,9 +245,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：各国理应乐于帮助我们。",
@@ -256,9 +256,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：白宫幕僚长Wiles被诊断出早期乳腺癌。",
@@ -267,9 +267,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：我曾预言本·拉登会炸毁世贸中心。",
@@ -278,9 +278,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：预计伊朗不会发射太多导弹；伊朗所剩导弹已不多。",
@@ -289,9 +289,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "美国总统特朗普：目前霍尔木兹海峡的状况非常好。",
@@ -300,9 +300,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         }
       ]
     },
@@ -318,8 +318,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "监控拍到伊朗导弹命中以街道瞬间",
@@ -329,8 +329,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -340,8 +340,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗首次使用「泥石」弹道导弹，这款导弹的关键特性是什么？伊朗在此时将其投入实战，是基于怎样的战略考量？",
@@ -351,8 +351,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗称目前发射导弹多为10年前生产",
@@ -362,8 +362,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗发起第56波打击",
@@ -373,8 +373,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "霍尔木兹海峡通航船只数量首次降为零！伊朗：440公斤丰度为60%的浓缩铀被埋，暂不打算取出",
@@ -384,8 +384,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
@@ -395,8 +395,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
@@ -406,8 +406,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗动用“泥石”导弹释放哪些信号",
@@ -417,8 +417,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗称逮捕500名间谍",
@@ -428,8 +428,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "经济学家：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
@@ -439,8 +439,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -450,8 +450,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗发动“真实承诺4”第55轮行动",
@@ -461,8 +461,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "若伊朗局势持续紧张，中方是否担心燃料供应？外交部回应",
@@ -472,8 +472,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "美军称已摧毁100艘伊朗海军舰艇",
@@ -483,8 +483,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "观察｜没有硝烟的战场：美以联合突袭伊朗背后的认知战博弈",
@@ -494,8 +494,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "美总统称先解决伊朗然后是古巴",
@@ -505,8 +505,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗动用“泥石”导弹 释放哪些信号",
@@ -516,8 +516,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗称目前发射导弹多为10年前生产",
@@ -527,8 +527,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "伊朗称打击阿布扎比美军基地",
@@ -538,8 +538,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         },
         {
           "title": "德国总理默茨：靠炸弹实现伊朗政权更迭不太可能成功。",
@@ -548,9 +548,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "伊朗称“未来数小时内”将打击美在中东产业",
@@ -559,9 +559,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         },
         {
           "title": "以色列中部遭伊朗导弹袭击，拦截碎片坠落在总理办公室附近",
@@ -570,9 +570,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         }
       ]
     },
@@ -587,9 +587,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 00时56分]"
         }
       ]
     },
@@ -605,8 +605,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         }
       ]
     },
@@ -622,8 +622,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 00时56分]"
         }
       ]
     }
