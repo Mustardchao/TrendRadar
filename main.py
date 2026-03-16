@@ -184,6 +184,26 @@ def get_beijing_time():
     return datetime.now(pytz.timezone("Asia/Shanghai"))
 
 
+def load_keywords_config() -> Dict:
+    """加载关键词配置"""
+    try:
+        import os
+        config_path = os.path.join(os.path.dirname(__file__), "keywords.yaml")
+        if os.path.exists(config_path):
+            with open(config_path, "r", encoding="utf-8") as f:
+                import yaml
+                return yaml.safe_load(f)
+    except Exception as e:
+        print(f"加载关键词配置失败：{e}")
+    
+    # 默认配置
+    return {
+        "keywords": ["AI", "股市", "比亚迪", "特斯拉"],
+        "push_settings": {"min_match": 1, "max_per_keyword": 3, "max_keywords": 10}
+    }
+
+
+
 def format_date_folder():
     """格式化日期文件夹"""
     return get_beijing_time().strftime("%Y年%m月%d日")
@@ -2740,106 +2760,83 @@ def send_to_feishu(
         proxy_url: Optional[str] = None,
         mode: str = "daily",
 ) -> bool:
-    """发送飞书消息 - 具体新闻 + 关键词 + 平台"""
+    """发送飞书消息 - 关键词过滤版"""
     headers = {"Content-Type": "application/json"}
-
-    # 获取当前时间
     now = get_beijing_time()
     update_time = now.strftime("%Y-%m-%d %H:%M")
 
+    # 加载关键词配置
+    keywords_config = load_keywords_config()
+    keywords = keywords_config.get("keywords", [])
+    push_settings = keywords_config.get("push_settings", {})
+    min_match = push_settings.get("min_match", 1)
+    max_per_keyword = push_settings.get("max_per_keyword", 3)
+    max_keywords = push_settings.get("max_keywords", 10)
+
     # 构建消息内容
-    content_lines = ["[热点实时监控]\n"]
+    content_lines = ["[热点实时监控 - 关键词过滤]\n"]
     content_lines.append(f"更新时间：{update_time}\n")
+    content_lines.append(f"监控关键词：{len(keywords)} 个\n")
     
-    # 分隔线
-    content_lines.append("━━━ 🔥 热门关键词 ━━━\n")
+    # 按关键词分类热点
+    keyword_matches = {}
+    for kw in keywords:
+        keyword_matches[kw] = []
     
-    # 添加热点词汇统计（TOP5）
-    if report_data.get("stats"):
-        for i, stat in enumerate(report_data["stats"][:5], 1):
-            word = stat.get("word", "未知")
-            count = stat.get("count", 0)
-            content_lines.append(f"{i}. **{word}** ({count}次)")
-    
-    content_lines.append("\n━━━ 📰 平台热点 ━━━\n")
-    
-    # 添加各平台具体新闻（如果有 titles 数据）
-    platform_count = 0
+    # 遍历所有热点，匹配关键词
+    all_titles = []
     if report_data.get("platform_stats"):
         for platform_stat in report_data["platform_stats"]:
             platform = platform_stat.get("platform", "未知")
             titles = platform_stat.get("titles", [])
-            
-            if titles and len(titles) > 0:
-                # 每个平台取 TOP2
-                for title_info in titles[:2]:
-                    if isinstance(title_info, dict):
-                        title = title_info.get("title", "未知")
-                        heat = title_info.get("hot_value", title_info.get("heat_score", 0))
-                        keyword = title_info.get("keyword", "")
-                    else:
-                        title = str(title_info)
-                        heat = 0
-                        keyword = ""
-                    
-                    # 格式：[平台] 标题 - 热度
-                    if keyword:
-                        content_lines.append(f"• [{platform}] {title} #{keyword}")
-                    else:
-                        content_lines.append(f"• [{platform}] {title}")
-                    
-                    platform_count += 1
-                    if platform_count >= 10:
-                        break
-            if platform_count >= 10:
-                break
+            for title_info in titles:
+                if isinstance(title_info, dict):
+                    title = title_info.get("title", "")
+                    heat = title_info.get("hot_value", title_info.get("heat_score", 0))
+                else:
+                    title = str(title_info)
+                    heat = 0
+                all_titles.append({"platform": platform, "title": title, "heat": heat})
     
-    # 如果没有平台数据，使用 stats 中的 titles
-    if platform_count == 0 and report_data.get("stats"):
-        for stat in report_data["stats"]:
-            if stat.get("count", 0) > 0 and stat.get("titles"):
-                platform = stat.get("platform", "综合")
-                for title_info in stat["titles"][:2]:
-                    if isinstance(title_info, dict):
-                        title = title_info.get("title", "未知")
-                        heat = title_info.get("hot_value", title_info.get("heat_score", 0))
-                    else:
-                        title = str(title_info)
-                        heat = 0
-                    content_lines.append(f"• [{platform}] {title} - 热度{heat}")
-                    platform_count += 1
-                    if platform_count >= 10:
-                        break
-            if platform_count >= 10:
-                break
+    # 匹配关键词
+    for item in all_titles:
+        title = item["title"]
+        for kw in keywords:
+            if kw.lower() in title.lower():
+                keyword_matches[kw].append(item)
+                break  # 每个标题只匹配第一个关键词
     
-    if platform_count == 0:
-        content_lines.append("暂无具体新闻数据")
+    # 生成推送内容
+    matched_count = 0
+    for kw, matches in keyword_matches.items():
+        if len(matches) > 0 and matched_count < max_keywords:
+            content_lines.append(f"\n━━━ 🔥 {kw} ━━━\n")
+            for i, item in enumerate(matches[:max_per_keyword]):
+                platform = item["platform"]
+                title = item["title"]
+                heat = item["heat"]
+                content_lines.append(f"• [{platform}] {title} (热度:{heat})")
+            matched_count += 1
+    
+    if matched_count == 0:
+        content_lines.append("\n暂无匹配的热点内容")
     
     # 底部信息
-    content_lines.append(f"\n━━━ 📊 数据统计 ━━━")
-    total_new = report_data.get("total_new_count", 0)
-    content_lines.append(f"新增热点：{total_new} 条")
+    content_lines.append(f"\n\n━━━ 📊 统计 ━━━")
+    content_lines.append(f"匹配关键词：{matched_count}/{len(keywords)}")
+    content_lines.append(f"总热点数：{len(all_titles)}")
     content_lines.append("数据每小时自动更新")
     content_lines.append("GitHub: github.com/Mustardchao/TrendRadar")
     
-    # 飞书卡片格式（interactive）
+    # 飞书卡片
     payload = {
         "msg_type": "interactive",
         "card": {
             "header": {
-                "title": {
-                    "tag": "plain_text",
-                    "content": "[热点实时监控]"
-                },
+                "title": {"tag": "plain_text", "content": "[热点实时监控 - 关键词过滤]"},
                 "template": "blue"
             },
-            "elements": [
-                {
-                    "tag": "markdown",
-                    "content": "\n".join(content_lines)
-                }
-            ]
+            "elements": [{"tag": "markdown", "content": "\n".join(content_lines)}]
         }
     }
 
@@ -2848,19 +2845,36 @@ def send_to_feishu(
         proxies = {"http": proxy_url, "https": proxy_url}
 
     try:
-        response = requests.post(
-            webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
-        )
+        response = requests.post(webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30)
         result = response.json()
         if result.get("code") == 0 or response.status_code == 200:
             print(f"飞书通知发送成功 [{report_type}]")
             return True
         else:
-            print(f"飞书通知发送失败 [{report_type}]：{result}")
+            print(f"飞书通知发送失败 [{report_type}]: {result}")
             return False
     except Exception as e:
-        print(f"飞书通知发送异常 [{report_type}]：{e}")
+        print(f"飞书通知发送异常 [{report_type}]: {e}")
         return False
+
+
+def load_keywords_config() -> Dict:
+    """加载关键词配置"""
+    try:
+        import os
+        config_path = os.path.join(os.path.dirname(__file__), "keywords.yaml")
+        if os.path.exists(config_path):
+            with open(config_path, "r", encoding="utf-8") as f:
+                import yaml
+                return yaml.safe_load(f)
+    except Exception as e:
+        print(f"加载关键词配置失败：{e}")
+    
+    # 默认配置
+    return {
+        "keywords": ["AI", "股市", "比亚迪", "特斯拉"],
+        "push_settings": {"min_match": 1, "max_per_keyword": 3, "max_keywords": 10}
+    }
 
 def send_to_dingtalk(
         webhook_url: str,
