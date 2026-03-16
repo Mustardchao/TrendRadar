@@ -185,20 +185,36 @@ def get_beijing_time():
 
 
 def load_keywords_config() -> Dict:
-    """加载关键词配置"""
+    """加载关键词配置（从 GitHub 读取）"""
     try:
         import os
+        # 优先尝试本地文件（用于本地测试）
         config_path = os.path.join(os.path.dirname(__file__), "keywords.yaml")
         if os.path.exists(config_path):
             with open(config_path, "r", encoding="utf-8") as f:
                 import yaml
                 return yaml.safe_load(f)
+        
+        # GitHub Actions 环境：从 GitHub API 读取
+        if os.environ.get("GITHUB_ACTIONS"):
+            token = os.environ.get("GITHUB_TOKEN", "")
+            if token:
+                owner = "Mustardchao"
+                repo = "TrendRadar"
+                url = f"https://api.github.com/repos/{owner}/{repo}/contents/keywords.yaml"
+                headers = {"Authorization": f"token {token}"}
+                response = requests.get(url, headers=headers, timeout=10)
+                if response.status_code == 200:
+                    import yaml
+                    data = response.json()
+                    decoded = base64.b64decode(data['content']).decode('utf-8')
+                    return yaml.safe_load(decoded)
     except Exception as e:
         print(f"加载关键词配置失败：{e}")
     
     # 默认配置
     return {
-        "keywords": ["AI", "股市", "比亚迪", "特斯拉"],
+        "keywords": ["AI", "股市", "比亚迪", "特斯拉", "拼多多", "海底捞", "半导体", "原油"],
         "push_settings": {"min_match": 1, "max_per_keyword": 3, "max_keywords": 10}
     }
 
@@ -2859,20 +2875,36 @@ def send_to_feishu(
 
 
 def load_keywords_config() -> Dict:
-    """加载关键词配置"""
+    """加载关键词配置（从 GitHub 读取）"""
     try:
         import os
+        # 优先尝试本地文件（用于本地测试）
         config_path = os.path.join(os.path.dirname(__file__), "keywords.yaml")
         if os.path.exists(config_path):
             with open(config_path, "r", encoding="utf-8") as f:
                 import yaml
                 return yaml.safe_load(f)
+        
+        # GitHub Actions 环境：从 GitHub API 读取
+        if os.environ.get("GITHUB_ACTIONS"):
+            token = os.environ.get("GITHUB_TOKEN", "")
+            if token:
+                owner = "Mustardchao"
+                repo = "TrendRadar"
+                url = f"https://api.github.com/repos/{owner}/{repo}/contents/keywords.yaml"
+                headers = {"Authorization": f"token {token}"}
+                response = requests.get(url, headers=headers, timeout=10)
+                if response.status_code == 200:
+                    import yaml
+                    data = response.json()
+                    decoded = base64.b64decode(data['content']).decode('utf-8')
+                    return yaml.safe_load(decoded)
     except Exception as e:
         print(f"加载关键词配置失败：{e}")
     
     # 默认配置
     return {
-        "keywords": ["AI", "股市", "比亚迪", "特斯拉"],
+        "keywords": ["AI", "股市", "比亚迪", "特斯拉", "拼多多", "海底捞", "半导体", "原油"],
         "push_settings": {"min_match": 1, "max_per_keyword": 3, "max_keywords": 10}
     }
 
