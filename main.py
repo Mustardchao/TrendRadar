@@ -2740,44 +2740,87 @@ def send_to_feishu(
         proxy_url: Optional[str] = None,
         mode: str = "daily",
 ) -> bool:
-    """发送飞书消息 - 卡片格式（热点词汇统计）"""
+    """发送飞书消息 - 具体新闻 + 关键词 + 平台"""
     headers = {"Content-Type": "application/json"}
 
-    # 构建消息内容
-    content_lines = ["[热点词汇统计]\n"]
-    
-    # 添加更新时间
+    # 获取当前时间
     now = get_beijing_time()
-    content_lines.append(f"更新时间：{now.strftime('%Y-%m-%d %H:%M')}\n")
+    update_time = now.strftime("%Y-%m-%d %H:%M")
+
+    # 构建消息内容
+    content_lines = ["[热点实时监控]\n"]
+    content_lines.append(f"更新时间：{update_time}\n")
     
-    # 添加热点词汇统计
+    # 分隔线
+    content_lines.append("━━━ 🔥 热门关键词 ━━━\n")
+    
+    # 添加热点词汇统计（TOP5）
     if report_data.get("stats"):
-        for i, stat in enumerate(report_data["stats"], 1):
+        for i, stat in enumerate(report_data["stats"][:5], 1):
             word = stat.get("word", "未知")
             count = stat.get("count", 0)
+            content_lines.append(f"{i}. **{word}** ({count}次)")
+    
+    content_lines.append("\n━━━ 📰 平台热点 ━━━\n")
+    
+    # 添加各平台具体新闻（如果有 titles 数据）
+    platform_count = 0
+    if report_data.get("platform_stats"):
+        for platform_stat in report_data["platform_stats"]:
+            platform = platform_stat.get("platform", "未知")
+            titles = platform_stat.get("titles", [])
             
-            # 热度等级
-            if count >= 10:
-                heat_level = ""
-            elif count >= 5:
-                heat_level = "⚡"
-            else:
-                heat_level = "📊"
-            
-            content_lines.append(f"{i}. {heat_level} **{word}** - {count} 次")
-            
-            # 限制显示数量
-            if i >= 15:
+            if titles and len(titles) > 0:
+                # 每个平台取 TOP2
+                for title_info in titles[:2]:
+                    if isinstance(title_info, dict):
+                        title = title_info.get("title", "未知")
+                        heat = title_info.get("hot_value", title_info.get("heat_score", 0))
+                        keyword = title_info.get("keyword", "")
+                    else:
+                        title = str(title_info)
+                        heat = 0
+                        keyword = ""
+                    
+                    # 格式：[平台] 标题 - 热度
+                    if keyword:
+                        content_lines.append(f"• [{platform}] {title} #{keyword}")
+                    else:
+                        content_lines.append(f"• [{platform}] {title}")
+                    
+                    platform_count += 1
+                    if platform_count >= 10:
+                        break
+            if platform_count >= 10:
                 break
-    else:
-        content_lines.append("暂无热点数据")
     
-    # 添加新标题统计
-    if report_data.get("new_titles"):
-        total_new = report_data.get("total_new_count", 0)
-        content_lines.append(f"\n 新增热点：{total_new} 条")
+    # 如果没有平台数据，使用 stats 中的 titles
+    if platform_count == 0 and report_data.get("stats"):
+        for stat in report_data["stats"]:
+            if stat.get("count", 0) > 0 and stat.get("titles"):
+                platform = stat.get("platform", "综合")
+                for title_info in stat["titles"][:2]:
+                    if isinstance(title_info, dict):
+                        title = title_info.get("title", "未知")
+                        heat = title_info.get("hot_value", title_info.get("heat_score", 0))
+                    else:
+                        title = str(title_info)
+                        heat = 0
+                    content_lines.append(f"• [{platform}] {title} - 热度{heat}")
+                    platform_count += 1
+                    if platform_count >= 10:
+                        break
+            if platform_count >= 10:
+                break
     
-    content_lines.append("\n数据每小时自动更新")
+    if platform_count == 0:
+        content_lines.append("暂无具体新闻数据")
+    
+    # 底部信息
+    content_lines.append(f"\n━━━ 📊 数据统计 ━━━")
+    total_new = report_data.get("total_new_count", 0)
+    content_lines.append(f"新增热点：{total_new} 条")
+    content_lines.append("数据每小时自动更新")
     content_lines.append("GitHub: github.com/Mustardchao/TrendRadar")
     
     # 飞书卡片格式（interactive）
@@ -2787,7 +2830,7 @@ def send_to_feishu(
             "header": {
                 "title": {
                     "tag": "plain_text",
-                    "content": "[热点词汇统计]"
+                    "content": "[热点实时监控]"
                 },
                 "template": "blue"
             },
