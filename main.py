@@ -2744,7 +2744,7 @@ def send_to_feishu(
     headers = {"Content-Type": "application/json"}
 
     # 构建热点列表
-    content_lines = ["[TrendRadar 热点监控]\n"]
+    content_lines = ["[热点词汇统计]\n"]
     
     if update_info:
         update_time = update_info.get("update_time", get_beijing_time().strftime("%Y-%m-%d %H:%M"))
@@ -2781,7 +2781,7 @@ def send_to_feishu(
             "header": {
                 "title": {
                     "tag": "plain_text",
-                    "content": "[TrendRadar 热点监控]"
+                    "content": "[热点词汇统计]"
                 },
                 "template": "blue"
             },
