@@ -2740,39 +2740,45 @@ def send_to_feishu(
         proxy_url: Optional[str] = None,
         mode: str = "daily",
 ) -> bool:
-    """发送飞书消息 - 卡片格式"""
+    """发送飞书消息 - 卡片格式（热点词汇统计）"""
     headers = {"Content-Type": "application/json"}
 
-    # 构建热点列表
+    # 构建消息内容
     content_lines = ["[热点词汇统计]\n"]
     
-    if update_info:
-        update_time = update_info.get("update_time", get_beijing_time().strftime("%Y-%m-%d %H:%M"))
-        content_lines.insert(1, f"更新时间：{update_time}\n")
+    # 添加更新时间
+    now = get_beijing_time()
+    content_lines.append(f"更新时间：{now.strftime('%Y-%m-%d %H:%M')}\n")
     
-    # 添加各平台热点
-    item_count = 0
-    for stat in report_data["stats"]:
-        if stat["count"] > 0 and "titles" in stat:
-            platform = stat.get("platform", "未知")
-            for title_info in stat["titles"][:3]:  # 每个平台取 TOP3
-                if isinstance(title_info, dict):
-                    title = title_info.get("title", "未知")
-                    heat = title_info.get("hot_value", title_info.get("heat_score", 0))
-                else:
-                    title = str(title_info)
-                    heat = 0
-                content_lines.append(f"• [{platform}] {title} - 热度 {heat}")
-                item_count += 1
-                if item_count >= 15:  # 最多显示 15 条
-                    break
-        if item_count >= 15:
-            break
-    
-    if item_count == 0:
+    # 添加热点词汇统计
+    if report_data.get("stats"):
+        for i, stat in enumerate(report_data["stats"], 1):
+            word = stat.get("word", "未知")
+            count = stat.get("count", 0)
+            
+            # 热度等级
+            if count >= 10:
+                heat_level = ""
+            elif count >= 5:
+                heat_level = "⚡"
+            else:
+                heat_level = "📊"
+            
+            content_lines.append(f"{i}. {heat_level} **{word}** - {count} 次")
+            
+            # 限制显示数量
+            if i >= 15:
+                break
+    else:
         content_lines.append("暂无热点数据")
     
+    # 添加新标题统计
+    if report_data.get("new_titles"):
+        total_new = report_data.get("total_new_count", 0)
+        content_lines.append(f"\n 新增热点：{total_new} 条")
+    
     content_lines.append("\n数据每小时自动更新")
+    content_lines.append("GitHub: github.com/Mustardchao/TrendRadar")
     
     # 飞书卡片格式（interactive）
     payload = {
