@@ -2740,23 +2740,58 @@ def send_to_feishu(
         proxy_url: Optional[str] = None,
         mode: str = "daily",
 ) -> bool:
-    """发送到飞书"""
+    """发送飞书消息 - 卡片格式"""
     headers = {"Content-Type": "application/json"}
 
-    text_content = render_feishu_content(report_data, update_info, mode)
-    total_titles = sum(
-        len(stat["titles"]) for stat in report_data["stats"] if stat["count"] > 0
-    )
-
-    now = get_beijing_time()
+    # 构建热点列表
+    content_lines = ["[TrendRadar 热点监控]\n"]
+    
+    if update_info:
+        update_time = update_info.get("update_time", get_beijing_time().strftime("%Y-%m-%d %H:%M"))
+        content_lines.insert(1, f"更新时间：{update_time}\n")
+    
+    # 添加各平台热点
+    item_count = 0
+    for stat in report_data["stats"]:
+        if stat["count"] > 0 and "titles" in stat:
+            platform = stat.get("platform", "未知")
+            for title_info in stat["titles"][:3]:  # 每个平台取 TOP3
+                if isinstance(title_info, dict):
+                    title = title_info.get("title", "未知")
+                    heat = title_info.get("hot_value", title_info.get("heat_score", 0))
+                else:
+                    title = str(title_info)
+                    heat = 0
+                content_lines.append(f"• [{platform}] {title} - 热度 {heat}")
+                item_count += 1
+                if item_count >= 15:  # 最多显示 15 条
+                    break
+        if item_count >= 15:
+            break
+    
+    if item_count == 0:
+        content_lines.append("暂无热点数据")
+    
+    content_lines.append("\n数据每小时自动更新")
+    
+    # 飞书卡片格式（interactive）
     payload = {
-        "msg_type": "text",
-        "content": {
-            "total_titles": total_titles,
-            "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
-            "report_type": report_type,
-            "text": text_content,
-        },
+        "msg_type": "interactive",
+        "card": {
+            "header": {
+                "title": {
+                    "tag": "plain_text",
+                    "content": "[TrendRadar 热点监控]"
+                },
+                "template": "blue"
+            },
+            "elements": [
+                {
+                    "tag": "markdown",
+                    "content": "\n".join(content_lines)
+                }
+            ]
+        }
     }
 
     proxies = None
@@ -2767,16 +2802,16 @@ def send_to_feishu(
         response = requests.post(
             webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
         )
-        if response.status_code == 200:
+        result = response.json()
+        if result.get("code") == 0 or response.status_code == 200:
             print(f"飞书通知发送成功 [{report_type}]")
             return True
         else:
-            print(f"飞书通知发送失败 [{report_type}]，状态码：{response.status_code}")
+            print(f"飞书通知发送失败 [{report_type}]：{result}")
             return False
     except Exception as e:
-        print(f"飞书通知发送出错 [{report_type}]：{e}")
+        print(f"飞书通知发送异常 [{report_type}]：{e}")
         return False
-
 
 def send_to_dingtalk(
         webhook_url: str,
