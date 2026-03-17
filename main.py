@@ -2781,7 +2781,6 @@ def send_to_feishu(
     now = get_beijing_time()
     update_time = now.strftime("%Y-%m-%d %H:%M")
 
-    # 加载关键词配置
     keywords_config = load_keywords_config()
     keywords = keywords_config.get("keywords", [])
     push_settings = keywords_config.get("push_settings", {})
@@ -2789,88 +2788,77 @@ def send_to_feishu(
     max_per_keyword = push_settings.get("max_per_keyword", 3)
     max_keywords = push_settings.get("max_keywords", 10)
 
-    # 构建消息内容
-    content_lines = ["[热点实时监控 - 关键词过滤]\n"]
-    content_lines.append(f"更新时间：{update_time}\n")
-    content_lines.append(f"监控关键词：{len(keywords)} 个\n")
+    content_lines = ["[热点实时监控 - 关键词过滤]"]
+    content_lines.append(f"更新时间：{update_time}")
+    content_lines.append(f"监控关键词：{len(keywords)} 个")
     
-    # 按关键词分类热点
     keyword_matches = {}
     for kw in keywords:
         keyword_matches[kw] = []
     
-    # 遍历所有热点，匹配关键词
     all_titles = []
     if report_data.get("stats"):
         for stat in report_data["stats"]:
             word_group = stat.get("word", "未知")
-            titles = platform_stat.get("titles", [])
+            titles = stat.get("titles", [])
             for title_info in titles:
                 if isinstance(title_info, dict):
                     title = title_info.get("title", "")
+                    source = title_info.get("source_name", "未知")
                     heat = title_info.get("count", 0)
                 else:
                     title = str(title_info)
+                    source = "未知"
                     heat = 0
-                all_titles.append({"source": word_group, "title": title, "heat": heat})
+                all_titles.append({"source": source, "title": title, "heat": heat})
     
-    # 匹配关键词
     for item in all_titles:
         title = item["title"]
         for kw in keywords:
-            if kw in title:  # 中文不需要 lower()
+            if kw in title:
                 keyword_matches[kw].append(item)
-                break  # 每个标题只匹配第一个关键词
+                break
     
-    # 生成推送内容
     matched_count = 0
     for kw, matches in keyword_matches.items():
         if len(matches) > 0 and matched_count < max_keywords:
-            content_lines.append(f"\n━━━ 🔥 {kw} ━━━\n")
+            content_lines.append(f"\n━━━ {kw} ━━━")
             for i, item in enumerate(matches[:max_per_keyword]):
                 source = item["source"]
                 title = item["title"]
                 heat = item["heat"]
-                content_lines.append(f"• [{source}] {title} (热度:{heat})")
+                content_lines.append(f"- [{source}] {title} ({heat}次)")
             matched_count += 1
     
     if matched_count == 0:
         content_lines.append("\n暂无匹配的热点内容")
     
-    # 底部信息
-    content_lines.append(f"\n\n━━━ 📊 统计 ━━━")
+    content_lines.append(f"\n━━━ 统计 ━━━")
     content_lines.append(f"匹配关键词：{matched_count}/{len(keywords)}")
     content_lines.append(f"总热点数：{len(all_titles)}")
     content_lines.append("数据每小时自动更新")
     content_lines.append("GitHub: github.com/Mustardchao/TrendRadar")
     
-    # 飞书卡片
     payload = {
         "msg_type": "interactive",
         "card": {
             "header": {
-                "title": {"tag": "plain_text", "content": "[热点实时监控 - 关键词过滤]"},
+                "title": {"tag": "plain_text", "content": "热点实时监控"},
                 "template": "blue"
             },
             "elements": [{"tag": "markdown", "content": "\n".join(content_lines)}]
         }
     }
-
-    proxies = None
-    if proxy_url:
-        proxies = {"http": proxy_url, "https": proxy_url}
-
+    
     try:
-        response = requests.post(webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30)
-        result = response.json()
-        if result.get("code") == 0 or response.status_code == 200:
-            print(f"飞书通知发送成功 [{report_type}]")
-            return True
-        else:
-            print(f"飞书通知发送失败 [{report_type}]: {result}")
-            return False
+        response = requests.post(webhook_url, json=payload, headers=headers, timeout=10)
+        if response.status_code == 200:
+            result = response.json()
+            if result.get("StatusCode") == 0 or result.get("code") == 0:
+                return True
+        return False
     except Exception as e:
-        print(f"飞书通知发送异常 [{report_type}]: {e}")
+        print(f"Send feishu failed: {e}")
         return False
 
 
