@@ -2801,24 +2801,24 @@ def send_to_feishu(
     
     # 遍历所有热点，匹配关键词
     all_titles = []
-    if report_data.get("platform_stats"):
-        for platform_stat in report_data["platform_stats"]:
-            platform = platform_stat.get("platform", "未知")
+    if report_data.get("stats"):
+        for stat in report_data["stats"]:
+            word_group = stat.get("word", "未知")
             titles = platform_stat.get("titles", [])
             for title_info in titles:
                 if isinstance(title_info, dict):
                     title = title_info.get("title", "")
-                    heat = title_info.get("hot_value", title_info.get("heat_score", 0))
+                    heat = title_info.get("count", 0)
                 else:
                     title = str(title_info)
                     heat = 0
-                all_titles.append({"platform": platform, "title": title, "heat": heat})
+                all_titles.append({"source": word_group, "title": title, "heat": heat})
     
     # 匹配关键词
     for item in all_titles:
         title = item["title"]
         for kw in keywords:
-            if kw.lower() in title.lower():
+            if kw in title:  # 中文不需要 lower()
                 keyword_matches[kw].append(item)
                 break  # 每个标题只匹配第一个关键词
     
@@ -2828,10 +2828,10 @@ def send_to_feishu(
         if len(matches) > 0 and matched_count < max_keywords:
             content_lines.append(f"\n━━━ 🔥 {kw} ━━━\n")
             for i, item in enumerate(matches[:max_per_keyword]):
-                platform = item["platform"]
+                source = item["source"]
                 title = item["title"]
                 heat = item["heat"]
-                content_lines.append(f"• [{platform}] {title} (热度:{heat})")
+                content_lines.append(f"• [{source}] {title} (热度:{heat})")
             matched_count += 1
     
     if matched_count == 0:
