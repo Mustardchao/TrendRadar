@@ -64,6 +64,71 @@ weight:
 # 增加无聊的小知识
 # 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
 platforms:
+  # === 主流综合 (11 个) ===
+  - id: "toutiao"
+    name: "今日头条"
+  - id: "baidu"
+    name: "百度热搜"
+  - id: "wallstreetcn-hot"
+    name: "华尔街见闻"
+  - id: "thepaper"
+    name: "澎湃新闻"
+  - id: "bilibili-hot-search"
+    name: "bilibili 热搜"
+  - id: "cls-hot"
+    name: "财联社热门"
+  - id: "ifeng"
+    name: "凤凰网"
+  - id: "tieba"
+    name: "贴吧"
+  - id: "weibo"
+    name: "微博"
+  - id: "douyin"
+    name: "抖音"
+  - id: "zhihu"
+    name: "知乎"
+  
+  # === 财经金融 (6 个) 🆕 ===
+  - id: "jin10"
+    name: "金十数据"
+  - id: "xueqiu"
+    name: "雪球"
+  - id: "gelonghui"
+    name: "格隆汇"
+  - id: "fastbull"
+    name: "法布财经"
+  - id: "mktnews"
+    name: "市场资讯"
+  - id: "zaobao"
+    name: "联合早报"
+  
+  # === 科技互联网 (5 个) 🆕 ===
+  - id: "ithome"
+    name: "IT 之家"
+  - id: "36kr"
+    name: "36 氪"
+  - id: "sspai"
+    name: "少数派"
+  - id: "juejin"
+    name: "掘金"
+  - id: "github"
+    name: "GitHub Trending"
+  
+  # === 国际新闻 (3 个) 🆕 ===
+  - id: "cankaoxiaoxi"
+    name: "参考消息"
+  - id: "sputniknewscn"
+    name: "俄罗斯卫星通讯社"
+  - id: "hackernews"
+    name: "Hacker News"
+weight:
+  rank_weight: 0.6 # 排名权重
+  frequency_weight: 0.3 # 频次权重
+  hotness_weight: 0.1 # 热度权重
+
+# 增加无聊的小知识
+# 这里的 name 你可以定义任意名称，只具有显示作用，不会影响数据的处理
+platforms:
   - id: "toutiao"
     name: "今日头条"
   - id: "baidu"
