@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T16:35:27.900868+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-05-12T19:18:58.074559+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -88,11 +88,12 @@
           "ranks": [
             5,
             8,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 16时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时17分 ~ 19时18分]"
         },
         {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
@@ -116,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 19时18分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -144,19 +145,6 @@
           "time_info": "[01时17分 ~ 09时50分]"
         },
         {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时45分 ~ 16时35分]"
-        },
-        {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
           "url": "https://wallstreetcn.com/articles/3772005",
           "source": "华尔街见闻",
@@ -164,6 +152,19 @@
             10,
             6,
             9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时45分 ~ 19时18分]"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
             8
           ],
           "is_new": false,
@@ -217,6 +218,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
           "url": "https://flash.jin10.com/detail/20260512010045688800",
           "source": "金十数据",
@@ -226,6 +238,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 19时18分]"
         },
         {
           "title": "美国总统特朗普：我们需要更多关税。",
@@ -240,28 +265,17 @@
           "time_info": "[05时09分 ~ 06时45分]"
         },
         {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 16时35分]"
-        },
-        {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 19时18分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -269,11 +283,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 19时18分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -286,6 +301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 03时25分]"
+        },
+        {
+          "title": "特朗普访华传递了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 19时18分]"
         },
         {
           "title": "特朗普称正在认真考虑「将委内瑞拉纳为美国第 51 个州」，意在 40 万亿美元的石油财富，有可能实现吗？",
@@ -321,6 +348,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "美国总统特朗普：失败的《纽约时报》，这是世界上最糟糕的报纸之一，订阅量每小时都在流失。",
+          "url": "https://flash.jin10.com/detail/20260512184945160800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3101788",
           "source": "华尔街见闻-快讯",
@@ -343,17 +381,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "特朗普访华传递了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "美国官员：特朗普召集高层 研判对伊重新动武",
           "url": "https://flash.jin10.com/detail/20260512004738890800",
           "source": "金十数据",
@@ -363,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美国总统特朗普：伊朗强硬派领导人早晚会屈服，我将与他们继续“周旋”，直到他们愿意跟我达成协议。",
@@ -448,7 +486,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -495,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "多个团体就特朗普政府可能削减住房项目发出警告",
@@ -709,7 +758,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -746,6 +795,17 @@
           "time_info": "[01时17分 ~ 09时50分]"
         },
         {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 19时18分]"
+        },
+        {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
           "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
           "source": "凤凰网",
@@ -763,18 +823,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -807,9 +856,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 19时18分]"
         },
         {
           "title": "伊朗议长：除了接受伊朗14点提案外别无他法",
@@ -889,18 +961,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -925,6 +986,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "“隐形守护者”入局：伊朗小型潜艇下场，霍尔木兹控制权争夺白热化",
@@ -958,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判团队表示，现在很多西方媒体的报道纯属“心理战”。",
@@ -1142,9 +1225,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "伊朗石油储能“见顶”了吗",
+          "url": "https://www.toutiao.com/trending/7638900741667881003/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，伊朗在其提案中为解冻被冻结资金设定了明确期限。美国在其提案中写道将解冻伊朗被冻结的资金，但伊朗强调这些资金必须在特定期限内解冻。",
@@ -1164,7 +1258,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -1172,7 +1266,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -1183,8 +1277,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时45分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[06时45分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1231,8 +1325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 19时18分]"
         },
         {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
@@ -1333,7 +1427,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1358,6 +1452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "美股“融涨”警报拉响！1999年互联网泡沫的剧本又要重演了？",
+          "url": "https://flash.jin10.com/detail/20260512184546356800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "金十图示：2026年05月11日（周一）热门中概股行情一览（美股收盘）",
@@ -1402,6 +1507,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "腾讯音乐美股盘前涨超10%，公司第一季度营收79亿元，同比增长7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3102216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "京东集团第一季度净营收3,156.9亿元人民币，同比增长4.9%，预估3,114.3亿元人民币。 第一季度调整后EBITDA 80.2亿元人民币，同比下降41%，预估44.6亿元人民币。 第一季度调整后每ADS收益 5.12元人民币，预估3.57元人民币。 第一季度经调整EBITDA利润率2.5％，上年同期4.6％，预估1.38％。 京东集团美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3102215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
@@ -1553,6 +1680,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价推升通胀风险 “沃什交易”在美债市场退潮",
+          "url": "https://wallstreetcn.com/livenews/3102221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
