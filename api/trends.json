@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T10:02:40.775198+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-05-22T14:38:21.404383+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 10时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 14时38分]"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -74,11 +74,35 @@
           "ranks": [
             14,
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 10时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 14时38分]"
+        },
+        {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普：我们希望古巴开放。",
@@ -136,15 +160,15 @@
           "time_info": "00时33分"
         },
         {
-          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
-          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "14时38分"
         },
         {
           "title": "美国总统特朗普：宴会厅项目按计划推进，且预算控制在范围内，无需（额外）现金。",
@@ -156,17 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
-          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "美国总统特朗普：不知道我是否会失去对参议院的控制。",
@@ -185,11 +198,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 14时38分]"
         },
         {
           "title": "美伊表态愿意谈判，报道称5月底举行，特朗普与内塔尼亚胡“激烈通话”",
@@ -201,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时48分 ~ 07时49分]"
+        },
+        {
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时38分]"
         },
         {
           "title": "IBM(IBM.N)涨超11%，公司获得特朗普政府的资金支持。",
@@ -227,6 +252,18 @@
           "time_info": "[06时10分 ~ 07时49分]"
         },
         {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
           "url": "https://wallstreetcn.com/livenews/3107623",
           "source": "华尔街见闻-快讯",
@@ -250,17 +287,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
-          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "IBM涨幅扩大至10%，该公司获得特朗普政府的资金支持。",
           "url": "https://wallstreetcn.com/livenews/3107584",
           "source": "华尔街见闻-快讯",
@@ -278,7 +304,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -305,15 +331,15 @@
           "time_info": "06时10分"
         },
         {
-          "title": "特朗普儿媳再忆中国行直呼震撼",
-          "url": "https://www.toutiao.com/trending/7641561881347309611/",
-          "source": "今日头条",
+          "title": "北约秘书长吕特对特朗普宣布美军在波兰部署兵力表示欢迎。",
+          "url": "https://wallstreetcn.com/livenews/3107834",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "14时38分"
         },
         {
           "title": "特朗普政策急转：将向波兰增派5000名美军",
@@ -420,8 +446,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时51分 ~ 10时02分]"
+          "appearance_count": 8,
+          "time_info": "[02时51分 ~ 14时38分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -496,11 +522,12 @@
           "url": "https://wallstreetcn.com/articles/3772830",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 14时38分]"
         },
         {
           "title": "伊朗高级官员：双方目前尚未达成任何最终协议，但彼此之间的立场差距已有所收窄。 伊朗的铀浓缩活动及其对霍尔木兹海峡的控制权，依然是当前谈判中最核心的僵持点（梗阻所在）。",
@@ -618,7 +645,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
@@ -626,11 +653,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：三大股指收涨 Arm涨16%",
@@ -679,6 +707,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时49分]"
+        },
+        {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
@@ -815,8 +854,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 14时38分]"
         },
         {
           "title": "两年期美债收益率涨2.8个基点",
@@ -883,6 +922,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "金价又“坐过山车”",
+          "url": "https://www.douyin.com/hot/2507965",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -897,23 +964,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         }
       ]
     }
