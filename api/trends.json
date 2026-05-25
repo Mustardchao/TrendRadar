@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T10:06:44.470158+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-05-25T15:02:28.966240+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 15时02分]"
         },
         {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
@@ -392,6 +392,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "伊朗称自冲突爆发以来已有20个机场恢复航班运营。（伊朗塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3108732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "伊朗塔斯尼姆通讯社：伊朗方面表示，冻结资金的释放与浓缩铀行动无关。",
           "url": "https://flash.jin10.com/detail/20260525044051363800",
           "source": "金十数据",
@@ -412,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "伊朗：准备向全世界保证不寻求拥核",
+          "url": "https://www.toutiao.com/trending/7643313675294244883/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）援引美国官员：伊朗当前似乎比军事行动前更愿意做出让步。",
@@ -453,9 +475,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "中方回应巴总理访华是否提及伊朗",
+          "url": "https://wallstreetcn.com/livenews/3108716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 87 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2042012817000067505",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "据福克斯新闻援引美国政府官员的话报道，如果最终协议中伊朗仍在进行铀浓缩，那就不算是最终协议。",
@@ -513,6 +557,17 @@
           "time_info": "00时49分"
         },
         {
+          "title": "美媒：伊朗最高领袖通过“信使网络”对外沟通",
+          "url": "https://wallstreetcn.com/livenews/3108700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
           "url": "https://flash.jin10.com/detail/20260524233642464800",
           "source": "金十数据",
@@ -522,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "中方回应巴总理访华是否提及伊朗",
+          "url": "https://flash.jin10.com/detail/20260525142547717800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
@@ -549,7 +615,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -708,6 +774,18 @@
           "time_info": "[00时49分 ~ 02时58分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时02分]"
+        },
+        {
           "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
           "url": "https://flash.jin10.com/detail/20260525010916654800",
           "source": "金十数据",
@@ -754,15 +832,15 @@
           "time_info": "[07时49分 ~ 07时50分]"
         },
         {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "15时02分"
         },
         {
           "title": "特朗普要求穆斯林领导人在伊朗战后加入《亚伯拉罕协议》",
@@ -790,7 +868,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -822,11 +900,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 15时02分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -834,17 +913,40 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 15时02分]"
+        },
+        {
+          "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
+          "url": "https://wallstreetcn.com/livenews/3108720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
+          "url": "https://flash.jin10.com/detail/20260525142932464800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -856,6 +958,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时49分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
@@ -873,7 +986,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
@@ -885,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "印度财政部长：国际原油价格高企、化肥价格上涨以及金价攀升，给外部经济环境带来了一些挑战。",
+          "url": "https://flash.jin10.com/detail/20260525143213485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
