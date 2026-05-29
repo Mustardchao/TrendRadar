@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T19:18:12.706010+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-05-29T22:34:56.393055+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗称击落一架美军飞机，美方回应",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 22时34分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -111,6 +111,20 @@
           "time_info": "01时32分"
         },
         {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 22时34分]"
+        },
+        {
           "title": "伊朗对美国空军基地实施打击",
           "url": "https://www.toutiao.com/trending/7644776648142753286/",
           "source": "今日头条",
@@ -122,19 +136,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时32分 ~ 08时02分]"
-        },
-        {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 19时18分]"
         },
         {
           "title": "伊朗否认“已敲定谅解备忘录”",
@@ -181,6 +182,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "伊朗外长与阿曼外长讨论霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3111497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "伊朗最高领袖强调维护民族团结",
           "url": "https://wallstreetcn.com/livenews/3110866",
           "source": "华尔街见闻-快讯",
@@ -198,7 +210,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -245,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗与阿曼讨论了霍尔木兹海峡的未来管理问题",
+          "url": "https://flash.jin10.com/detail/20260529215827229800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "【伊媒：伊方向“违规船只”警告射击】据伊朗媒体28日晚报道，伊朗武装部队当天在霍尔木兹海峡附近向4艘“违规船只”发出警告射击，原因是这些船只未经协调试图通过海峡。 迈赫尔通讯社援引记者消息称，伊朗方面当天在霍尔木兹海峡附近采取警告行动，阻止有关船只“违规”通行。 另一篇报道称，与部分网络消息不同，阿巴斯港未发生爆炸事件，当地民众听到的声响源自伊方对“违规”船只发射警告导弹。 此外，伊媒报道称，位于伊南部布什尔省传出的爆炸声，系伊朗防空系统拦截“敌对飞行器”所致。一架美军无人机可能被击落。但该消息尚未得到官方确认。（新华社）",
@@ -313,6 +336,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "伊朗外长阿拉格齐：在与阿曼外长的高效通话中，表达了伊朗在面对任何威胁时对阿曼的支持，就霍尔木兹海峡及未来的管理进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260529215247300800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "伊朗官员：美国一架飞机被伊朗摧毁",
           "url": "https://flash.jin10.com/detail/20260529045323641800",
           "source": "金十数据",
@@ -352,9 +386,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "美联储副主席鲍曼：现在判断伊朗冲突对通胀的影响还为时过早",
+          "url": "https://wallstreetcn.com/livenews/3111469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "伊媒：伊朗自南部地区向“特定目标”发射导弹",
@@ -399,23 +444,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：在对方采取行动之前，伊朗不会采取任何行动。",
+          "url": "https://wallstreetcn.com/livenews/3111456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 22时34分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -478,6 +535,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2385789",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
           "url": "https://www.cls.cn/detail/2384732",
           "source": "财联社热门",
@@ -487,6 +555,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，科技行业ETF涨超2%，全球科技股指数ETF、半导体ETF涨1.62%，日常消费品ETF、能源业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "马斯克表示，有关SpaceX下调IPO估值目标的报道是“虚假的”。特斯拉美股目前仍跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数涨超1%，戴尔科技涨约33%，超微电脑涨约9%",
+          "url": "https://wallstreetcn.com/livenews/3111484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览（美股盘中）",
@@ -520,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美股iShares科技软件行业ETF涨2.4%，创四个月新高。",
+          "url": "https://flash.jin10.com/detail/20260529214903634800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "惠与（HPE）美股盘后涨9%。",
@@ -564,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3111466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
@@ -639,8 +762,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 22时34分]"
         },
         {
           "title": "美财长称特朗普不会接受“糟糕的伊朗协议”",
@@ -720,11 +843,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 22时34分]"
         },
         {
           "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
@@ -808,8 +932,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 22时34分]"
         },
         {
           "title": "梁文锋迁移代码到昇腾",
