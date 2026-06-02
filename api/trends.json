@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T17:58:34.263019+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-06-02T21:56:14.046871+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
@@ -42,6 +42,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 17时58分]"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时56分]"
+        },
+        {
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "特朗普：以黎将立即停火",
@@ -90,18 +113,6 @@
           "time_info": "06时29分"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 17时58分]"
-        },
-        {
           "title": "美国参议院多数党领袖图恩：白宫尚未就总统特朗普的基金发布任何官方声明。",
           "url": "https://flash.jin10.com/detail/20260602032044587800",
           "source": "金十数据",
@@ -119,7 +130,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -170,6 +181,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 08时05分]"
+        },
+        {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
@@ -249,6 +271,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "特朗普任命普尔特为代理国家情报总监",
+          "url": "https://wallstreetcn.com/livenews/3113113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "以色列国防部长卡茨：特朗普采纳了我们确立的观点，即向我们的定居点开火就意味着贝鲁特将遭到轰炸。这就是他那番话的含义。",
           "url": "https://flash.jin10.com/detail/20260602030602833800",
           "source": "金十数据",
@@ -269,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "美国总统特朗普：任命美国联邦住房金融局局长、房利美/房地美董事长普尔特担任国家情报局代理局长。 在此期间，他将继续担任联邦住房金融局局长和房利美/房地美董事长。",
+          "url": "https://wallstreetcn.com/livenews/3113107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "据AXIOS：美国总统特朗普计划取消“武器化”基金。",
@@ -362,7 +406,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
@@ -374,8 +418,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时50分 ~ 17时58分]"
+          "appearance_count": 9,
+          "time_info": "[03时50分 ~ 21时56分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -410,6 +454,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时56分]"
+        },
+        {
+          "title": "伊朗革命卫队：将保持最高级别军事戒备状态",
+          "url": "https://news.ifeng.com/c/8tdFU7JhD7W",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
@@ -453,7 +521,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -505,18 +573,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时50分 ~ 08时05分]"
-        },
-        {
-          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 17时58分]"
         },
         {
           "title": "伊朗：美对以违反停火协议负直接责任",
@@ -580,7 +636,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -605,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社，伊朗与美国为达成谅解备忘录的消息交流已于几天前停止。伊朗发给美国的最新消息是“关于黎巴嫩的明确信息”。",
+          "url": "https://wallstreetcn.com/livenews/3113110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美以袭击伊朗进入第 94 天，当前局势如何？哪些信息值得关注？",
@@ -646,9 +713,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "以色列总理扬言伊朗政权将覆灭",
+          "url": "https://wallstreetcn.com/livenews/3113089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称对美以船只实施打击",
@@ -676,7 +754,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
@@ -748,6 +826,17 @@
           "time_info": "[03时50分 ~ 08时05分]"
         },
         {
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
+        },
+        {
           "title": "美股收盘：芯片股多涨 英伟达涨超6%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%856%25",
           "source": "百度热搜",
@@ -776,9 +865,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "美股盘初，北美科技软件股指数ETF跌2.18%。 个股中，HubSpot跌7.77%，RingCentral跌5.71%，Zscaler跌4.91%，Cloudflare跌2.52%，Palantir跌2.47%，Crowdstrike跌1.55%，Datadog跌1.53%，Palo Alto Networks跌0.77%，ServiceNow跌3.49%。",
+          "url": "https://wallstreetcn.com/livenews/3113117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美股存储芯片指数收涨约3.5%，成分股美光涨超6.6%",
@@ -792,13 +892,35 @@
           "time_info": "08时05分"
         },
         {
+          "title": "美股三大指数集体低开，Marvell盘初涨15%",
+          "url": "https://wallstreetcn.com/livenews/3113115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "美股三大股指低开 迈威尔科技大涨16%",
+          "url": "https://flash.jin10.com/detail/20260602213041592800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
           "url": "https://www.cls.cn/detail/2388081",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -823,6 +945,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "美股牛市现反常一幕：分析师逆势密集下调个股评级",
+          "url": "https://flash.jin10.com/detail/20260602213016689800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3113105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
@@ -915,7 +1059,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -992,7 +1136,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1003,7 +1147,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         }
@@ -1022,8 +1166,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 17时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时56分]"
         },
         {
           "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
@@ -1080,11 +1224,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 21时56分]"
         }
       ]
     },
