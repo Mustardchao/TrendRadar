@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:25:20.479139+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-06-05T20:32:17.582221+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -135,6 +135,17 @@
           "time_info": "[05时22分 ~ 07时01分]"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
           "url": "https://flash.jin10.com/detail/20260605044557857800",
           "source": "金十数据",
@@ -166,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "据国际文传电讯社：美国总统特使威特科夫与特朗普女婿库什纳短期内预计不会访问俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20260605195847558800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "美国总统特朗普：古巴正面临粮食短缺，并且缺乏能源和石油。",
@@ -333,6 +355,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-05）",
+          "url": "https://flash.jin10.com/detail/20260605195606561800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
           "url": "https://wallstreetcn.com/livenews/3114648",
           "source": "华尔街见闻-快讯",
@@ -372,7 +405,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -545,8 +578,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "伊朗否认已同意将部分浓缩铀转移至第三国",
+          "url": "https://wallstreetcn.com/livenews/3115122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
         {
           "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
           "url": "https://flash.jin10.com/detail/20260605024637794800",
@@ -565,7 +609,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -579,6 +623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾",
+          "url": "https://wallstreetcn.com/livenews/3115119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗“圣城旅”喊话以色列",
@@ -595,6 +650,29 @@
           "time_info": "[03时12分 ~ 08时08分]"
         },
         {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 20时32分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 98 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046131640967984631",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
           "url": "https://flash.jin10.com/detail/20260605024510184800",
           "source": "金十数据",
@@ -606,24 +684,13 @@
           "time_info": "03时12分"
         },
         {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
           "url": "https://news.ifeng.com/c/8thzeBSBwEz",
           "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -637,6 +704,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾",
+          "url": "https://wallstreetcn.com/livenews/3115106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾",
+          "url": "https://flash.jin10.com/detail/20260605195609827800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "哈马斯高官与伊朗外长通话讨论地区局势",
@@ -705,6 +794,28 @@
           "time_info": "07时01分"
         },
         {
+          "title": "黎以僵局锁死美伊谈判！伊朗高层再度发声力挺真主党",
+          "url": "https://flash.jin10.com/detail/20260605194641795800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "美国印太司令部：已对油轮“达维娜”号（MT Davina）实施登船检查。 “达维娜”号与伊朗有关。",
+          "url": "https://wallstreetcn.com/livenews/3115093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260605021812132800",
           "source": "金十数据",
@@ -714,12 +825,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾",
+          "url": "https://flash.jin10.com/detail/20260605194408430800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗海军表示，已在阿曼湾对美国驱逐舰开火示警。",
+          "url": "https://flash.jin10.com/detail/20260605194025838800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -783,6 +916,17 @@
           "time_info": "[05时22分 ~ 07时01分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
           "url": "https://www.zhihu.com/question/2045914979002315116",
           "source": "知乎",
@@ -830,7 +974,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -843,6 +987,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 07时01分]"
+        },
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
@@ -900,22 +1055,24 @@
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 20时32分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
           "url": "https://wallstreetcn.com/articles/3773884",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 20时32分]"
         },
         {
           "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
