@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-06T19:15:18.062952+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-06-06T21:04:25.979225+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 62,
       "titles": [
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 21时04分]"
+        },
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
           "url": "https://flash.jin10.com/detail/20260606060734761800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时58分]"
-        },
-        {
-          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
-          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 19时15分]"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -64,28 +65,6 @@
           "time_info": "17时16分"
         },
         {
-          "title": "伊朗副外长：任何与美国达成的协议都必须包含释放一半被冻结伊朗资产的条款",
-          "url": "https://flash.jin10.com/detail/20260606185712129800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
-          "url": "https://wallstreetcn.com/livenews/3115452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
           "url": "https://flash.jin10.com/detail/20260606011557462800",
           "source": "金十数据",
@@ -119,17 +98,6 @@
           "time_info": "17时16分"
         },
         {
-          "title": "据伊朗媒体Fars News：霍尔木兹甘省政府称，由于对未爆弹药的排除，霍尔木兹港在接下来的四天内可能会听到爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260606184623733800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "伊朗革命卫队发表声明称，如果美国的“胡闹”行径持续，美国将须对霍尔木兹海峡完全关闭、油气出口受阻所引发的后果承担责任。",
           "url": "https://flash.jin10.com/detail/20260606102535963800",
           "source": "金十数据",
@@ -139,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "伊朗政府：伊朗工业部长赛义德·穆罕默德·阿塔巴克与白俄罗斯官员召开会议，强调扩大工业、贸易和物流合作，重点讨论联合生产、机械供应和运输发展。",
+          "url": "https://flash.jin10.com/detail/20260606203248151800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美军中央司令部称拦截了伊朗导弹和无人机",
@@ -163,15 +142,26 @@
           "time_info": "17时16分"
         },
         {
-          "title": "沙特阿拉伯谴责伊朗对巴林和科威特的袭击。",
-          "url": "https://flash.jin10.com/detail/20260606182622330800",
+          "title": "巴基斯坦内政部长周六访问伊朗 旨在打破美伊僵局并达成临时协议的新提案",
+          "url": "https://flash.jin10.com/detail/20260606202748225800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美媒曝以色列在伊朗周边多国设据点",
+          "url": "https://wallstreetcn.com/livenews/3115465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "伊朗称美军第五舰队总部遭打击，美方否认",
@@ -220,6 +210,42 @@
           "time_info": "[14时20分 ~ 19时15分]"
         },
         {
+          "title": "伊朗副外长：任何与美国达成的协议都必须包含释放一半被冻结伊朗资产的条款",
+          "url": "https://flash.jin10.com/detail/20260606185712129800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时04分]"
+        },
+        {
+          "title": "美国海上封锁已使伊朗损失近60亿美元石油收入",
+          "url": "https://wallstreetcn.com/livenews/3115452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时04分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：霍尔木兹甘省政府称，由于对未爆弹药的排除，霍尔木兹港在接下来的四天内可能会听到爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260606184623733800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时04分]"
+        },
+        {
           "title": "伊朗革命卫队称中东地区美军基地遭袭",
           "url": "https://wallstreetcn.com/livenews/3115402",
           "source": "华尔街见闻-快讯",
@@ -230,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 14时20分]"
+        },
+        {
+          "title": "沙特阿拉伯谴责伊朗对巴林和科威特的袭击。",
+          "url": "https://flash.jin10.com/detail/20260606182622330800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时04分]"
         },
         {
           "title": "风水轮流转，轮到伊朗威胁美国了",
@@ -254,6 +292,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时56分 ~ 10时36分]"
+        },
+        {
+          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 21时04分]"
         },
         {
           "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
@@ -281,16 +332,16 @@
           "time_info": "[07时58分 ~ 10时36分]"
         },
         {
-          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
-          "source": "百度热搜",
+          "title": "伊朗称在边境地区击毙6名恐怖分子",
+          "url": "https://wallstreetcn.com/livenews/3115446",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            7
+            7,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 19时15分]"
+          "time_info": "[19时15分 ~ 21时04分]"
         },
         {
           "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
@@ -351,6 +402,17 @@
           "time_info": "10时36分"
         },
         {
+          "title": "科威特军方：伊朗袭击造成物质损失，但没有人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260606200409038800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美军中央司令部：拦截了伊朗发射的导弹与无人机。",
           "url": "https://flash.jin10.com/detail/20260606101448324800",
           "source": "金十数据",
@@ -373,15 +435,15 @@
           "time_info": "17时16分"
         },
         {
-          "title": "伊朗称在边境地区击毙6名恐怖分子",
-          "url": "https://wallstreetcn.com/livenews/3115446",
-          "source": "华尔街见闻-快讯",
+          "title": "科威特军方：周六拦截了来自伊朗的七枚导弹。",
+          "url": "https://flash.jin10.com/detail/20260606200351570800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "21时04分"
         },
         {
           "title": "伊朗媒体：美军第五舰队总部升起浓烟",
@@ -406,15 +468,37 @@
           "time_info": "10时36分"
         },
         {
+          "title": "美国能否如愿从伊朗脱身",
+          "url": "https://www.toutiao.com/trending/7648227068332740115/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "巴林军方表示，成功拦截了来自伊朗的三枚导弹和多架无人机。",
           "url": "https://flash.jin10.com/detail/20260606180922879800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗继续其恐怖活动的行为证明了其破坏安全的意图。",
+          "url": "https://flash.jin10.com/detail/20260606194054552800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，伊朗要求就核文件的细节进行为期三个月的谈判。",
@@ -423,7 +507,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -456,7 +540,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -489,9 +573,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "阿联酋外交部：强烈谴责伊朗对科威特和巴林的恐怖袭击，包括导弹和无人机攻击。",
+          "url": "https://flash.jin10.com/detail/20260606193736123800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
@@ -511,9 +606,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：高级消息人士透露，巴基斯坦内政部长携带巴基斯坦军队指挥官致伊朗最高领袖的特别信息前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260606191002409800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
@@ -555,7 +661,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -625,11 +731,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 21时04分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -759,6 +866,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时58分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
+          "url": "https://flash.jin10.com/detail/20260606181845712800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时04分]"
         },
         {
           "title": "美国总统特朗普：埃隆之前犯了个错，但现在他又是我的朋友了。",
@@ -898,17 +1017,6 @@
           "time_info": "03时29分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-06）",
-          "url": "https://flash.jin10.com/detail/20260606181845712800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "特朗普赦免因内幕交易获罪前议员",
           "url": "https://flash.jin10.com/detail/20260606101221407800",
           "source": "金十数据",
@@ -1003,7 +1111,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1168,8 +1276,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时56分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[06时56分 ~ 21时04分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -1180,19 +1288,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时56分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[06时56分 ~ 21时04分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 21时04分]"
         },
         {
           "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
@@ -1206,6 +1315,18 @@
           "time_info": "05时16分"
         },
         {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时04分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
           "url": "https://wallstreetcn.com/livenews/3115381",
           "source": "华尔街见闻-快讯",
@@ -1216,6 +1337,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 10时36分]"
+        },
+        {
+          "title": "如何看待美股一夜蒸发2万亿",
+          "url": "https://www.toutiao.com/trending/7648181420996693523/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时04分]"
         },
         {
           "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
@@ -1254,17 +1387,6 @@
           "time_info": "[07时58分 ~ 10时36分]"
         },
         {
-          "title": "如何看待美股一夜蒸发2万亿",
-          "url": "https://www.toutiao.com/trending/7648181420996693523/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260606040853818800",
           "source": "金十数据",
@@ -1274,17 +1396,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
@@ -1381,7 +1492,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1425,7 +1536,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1458,7 +1569,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -1636,7 +1747,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价跌回2025年",
@@ -1681,6 +1792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "金价年内大跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -1694,11 +1816,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 21时04分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -1805,8 +1928,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 21时04分]"
         }
       ]
     },
