@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T10:40:04.495287+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-06-08T15:21:43.760017+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 79,
+      "match_count": 87,
       "titles": [
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
@@ -41,6 +41,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 06时01分]"
+        },
+        {
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
+          "url": "https://news.ifeng.com/c/8tmavL6b7jm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 15时21分]"
+        },
+        {
+          "title": "一觉醒来，伊朗又和以色列干上了",
+          "url": "https://news.ifeng.com/c/8tmVXBGy9Du",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 15时21分]"
         },
         {
           "title": "伊朗战争最新动态｜以色列对伊朗发动打击行动",
@@ -79,17 +114,6 @@
           "time_info": "[01时03分 ~ 10时40分]"
         },
         {
-          "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
-          "url": "https://news.ifeng.com/c/8tmavL6b7jm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
           "title": "伊朗革命卫队：打击以色列空军基地",
           "url": "https://news.ifeng.com/c/8tmMJXeGnB6",
           "source": "凤凰网",
@@ -99,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "一觉醒来，伊朗又和以色列干上了",
-          "url": "https://news.ifeng.com/c/8tmVXBGy9Du",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         },
         {
           "title": "英国外交大臣：伊朗和以色列必须立即表现克制，降级局势。",
@@ -162,9 +175,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国对近期停火协议被违反事件负有直接责任，以色列的行动无法与美国政策脱钩。",
+          "url": "https://flash.jin10.com/detail/20260608151609780800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "以军准备强力打击伊朗",
@@ -220,18 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
-          "url": "https://www.cls.cn/detail/2393027",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时40分]"
         },
         {
           "title": "伊朗首席谈判代表卡利巴夫：针对伊朗的海上封锁以及美国今日对以色列的“开绿灯”行为，使得美国及（以色列）政权在本地区的基地和资产成为合法打击目标。我们武装力量的手一如既往地随时准备出击。",
@@ -303,6 +315,19 @@
           "time_info": "[04时59分 ~ 06时01分]"
         },
         {
+          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时21分]"
+        },
+        {
           "title": "时隔两个月 伊朗向以发动导弹袭击",
           "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88+%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
@@ -315,27 +340,28 @@
           "time_info": "[07时57分 ~ 10时40分]"
         },
         {
-          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时40分]"
-        },
-        {
           "title": "伊朗确认遭以色列导弹袭击",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列",
+          "url": "https://www.douyin.com/hot/2526750",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 15时21分]"
         },
         {
           "title": "伊朗外长与法国外长、卡塔尔外长通电话，讨论伊朗对以色列行动的呼应、和地区局势。 伊朗外长还与巴基斯坦陆军元帅（阿西姆·穆尼尔/Munir）通电话。",
@@ -406,17 +432,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时01分]"
-        },
-        {
-          "title": "伊朗时隔两个月再袭以色列",
-          "url": "https://www.douyin.com/hot/2526750",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "伊朗西部空域暂时关闭，直至另行通知。（伊朗官方新闻机构）",
@@ -497,6 +512,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "伊媒：以色列财长希望将回应重点放在黎巴嫩而非伊朗上",
+          "url": "https://flash.jin10.com/detail/20260608151240890800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗暂停霍梅尼机场航班，直至另行通知。",
           "url": "https://flash.jin10.com/detail/20260608051739211800",
           "source": "金十数据",
@@ -536,7 +562,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -591,7 +617,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -607,6 +633,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "以军证实打击伊朗石化工厂",
+          "url": "https://wallstreetcn.com/livenews/3115926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "伊朗外交部：黎巴嫩的停火是四月达成的停火协议的重要组成部分。",
           "url": "https://flash.jin10.com/detail/20260608051144890800",
           "source": "金十数据",
@@ -618,13 +655,24 @@
           "time_info": "06时01分"
         },
         {
+          "title": "伊朗展示远程打击能力 袭击以两处空军基地",
+          "url": "https://flash.jin10.com/detail/20260608150956300800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "伊朗革命卫队：以色列对伊朗发动弹道导弹袭击",
           "url": "https://wallstreetcn.com/livenews/3115783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -673,6 +721,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "美以袭击伊朗进入第 101 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047221146982904856",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：已对侵略者作出“回应”",
           "url": "https://flash.jin10.com/detail/20260608040630870800",
           "source": "金十数据",
@@ -712,9 +771,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗又一波导弹射向以色列",
+          "url": "https://wallstreetcn.com/livenews/3115919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "伊朗武装部队警告：或对以色列采取进一步行动",
@@ -860,13 +930,24 @@
           "time_info": "07时57分"
         },
         {
+          "title": "伊朗德黑兰梅赫拉巴德机场宣布航班暂停运营",
+          "url": "https://wallstreetcn.com/livenews/3115912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "据美联社记者称，伊朗在以色列袭击后关闭德黑兰霍梅尼国际机场周边空域，该机场是该国主要的航空枢纽。",
           "url": "https://flash.jin10.com/detail/20260608095142327800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -891,12 +972,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "以军证实打击伊朗石化工厂",
+          "url": "https://flash.jin10.com/detail/20260608150233638800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -906,19 +998,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 15时21分]"
         },
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
           "url": "https://wallstreetcn.com/articles/3774049",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 15时21分]"
         },
         {
           "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
@@ -1015,6 +1108,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "据沙特媒体哈达斯：特朗普与内塔尼亚胡通话结束。",
           "url": "https://flash.jin10.com/detail/20260608051817435800",
           "source": "金十数据",
@@ -1024,6 +1128,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "阿尔巴尼亚民众集会，反对政府批准特朗普女婿开发度假村",
+          "url": "https://news.ifeng.com/c/8tmri3lweAi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "专家：中东激烈交火暴露特朗普外交乏力，对伊以影响力均有限",
+          "url": "https://flash.jin10.com/detail/20260608151008820800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡通电话。（以色列媒体）",
@@ -1101,6 +1227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
@@ -1271,8 +1408,23 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 15时21分]"
+        },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
           "url": "https://www.cls.cn/detail/2392638",
@@ -1285,18 +1437,19 @@
           "time_info": "[01时03分 ~ 07时57分]"
         },
         {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             8,
             7,
             6,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 10时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 15时21分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -1312,18 +1465,15 @@
           "time_info": "[01时03分 ~ 10时40分]"
         },
         {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
+          "title": "美股科技大跌对A股影响有多大",
+          "url": "https://www.toutiao.com/trending/7648866478107659803/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            15
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -1357,6 +1507,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "金十图示：2026年06月08日（周一）上海金午盘价为939.8元/克，较国际金价(938.03元/克)高1.77元/克",
+          "url": "https://flash.jin10.com/detail/20260608150707051800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://wallstreetcn.com/livenews/3115552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
         }
       ]
     },
@@ -1405,30 +1616,32 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 15时21分]"
         },
         {
-          "title": "金价跌回2025年，有金店每克跌近400元",
-          "url": "https://wallstreetcn.com/livenews/3115552",
-          "source": "华尔街见闻-快讯",
+          "title": "Gemini 美国大豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "15时21分"
         }
       ]
     },
@@ -1441,29 +1654,12 @@
           "url": "https://www.cls.cn/detail/2392919",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 15时21分]"
         }
       ]
     },
