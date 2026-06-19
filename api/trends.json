@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T14:06:23.174750+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-06-19T19:12:07.655988+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
@@ -31,6 +31,42 @@
           "time_info": "[02时00分 ~ 08时19分]"
         },
         {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时19分 ~ 19时12分]"
+        },
+        {
+          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
+          "url": "https://wallstreetcn.com/articles/3775058",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 19时12分]"
+        },
+        {
+          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
+          "url": "https://www.cls.cn/detail/2404208",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 19时12分]"
+        },
+        {
           "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
           "url": "https://www.zhihu.com/question/2050871601684550857",
           "source": "知乎",
@@ -45,16 +81,26 @@
           "time_info": "[02时00分 ~ 08时19分]"
         },
         {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
+          "title": "临时改由美伊总统签协议，伊朗发言人透露原因",
+          "url": "https://news.ifeng.com/c/8u50XKAkou2",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时19分 ~ 14时06分]"
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
@@ -68,15 +114,26 @@
           "time_info": "02时01分"
         },
         {
-          "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
-          "url": "https://wallstreetcn.com/articles/3775058",
-          "source": "华尔街见闻",
+          "title": "伊朗“波斯湾海峡管理部门”：必须至少提前48小时提交通行申请。",
+          "url": "https://flash.jin10.com/detail/20260619185406276800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "市场消息：伊朗“波斯湾海峡管理部门”针对申请通过霍尔木兹海峡的船舶发布了新规。该部门警告称，通过非官方渠道提交的申请将不予受理。",
+          "url": "https://flash.jin10.com/detail/20260619185325074800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "19时12分"
         },
         {
           "title": "美国参议院Scott：对与伊朗协议的某些方面存在担忧。",
@@ -101,15 +158,15 @@
           "time_info": "02时01分"
         },
         {
-          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
-          "url": "https://www.cls.cn/detail/2404208",
-          "source": "财联社热门",
+          "title": "伊朗“波斯湾海峡管理部门”表示，根据与美国达成的谅解备忘录，凡按必要要求提交申请的船只，均获准通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260619185004484800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "19时12分"
         },
         {
           "title": "伊朗外长阿拉格齐：将遵循最高领袖的指导，以维护伊朗的权利、尊严和独立。",
@@ -135,6 +192,18 @@
           "time_info": "[02时01分 ~ 04时14分]"
         },
         {
+          "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 19时12分]"
+        },
+        {
           "title": "伊朗称要成为中国真正合作伙伴",
           "url": "https://www.toutiao.com/trending/7651502265441959942/",
           "source": "今日头条",
@@ -157,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 08时19分]"
+        },
+        {
+          "title": "伊朗足协正式投诉美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -236,17 +316,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
           "title": "美国解除对伊朗海上封锁",
           "url": "https://wallstreetcn.com/livenews/3121839",
           "source": "华尔街见闻-快讯",
@@ -275,7 +344,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -319,7 +388,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -355,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "法国外长：解除联合国对伊朗制裁须经法国同意",
+          "url": "https://wallstreetcn.com/livenews/3122054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "伊朗最高国家安全委员会：清除水雷的措施将在伊斯兰堡谅解备忘录下实施。",
@@ -418,7 +498,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -437,8 +517,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 19时12分]"
+        },
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
           "url": "https://wallstreetcn.com/articles/3774952",
@@ -474,17 +566,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时00分 ~ 08时19分]"
-        },
-        {
-          "title": "特朗普吐露的真相，比战争结局更让人警醒",
-          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
         },
         {
           "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
@@ -571,6 +652,39 @@
           "time_info": "[02时00分 ~ 08时19分]"
         },
         {
+          "title": "特朗普被曝挪用特勤局资金建宴会厅",
+          "url": "https://news.ifeng.com/c/8u5UjkO0mtO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "万斯警告以色列：只有特朗普同情你们",
+          "url": "https://www.toutiao.com/trending/7652359820477693994/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
+          "url": "https://www.zhihu.com/question/2051222502768992382",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
           "title": "李在明发文称与特朗普共进晚餐",
           "url": "https://www.toutiao.com/trending/7651897149604659219/",
           "source": "今日头条",
@@ -580,6 +694,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 02时01分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-19）",
+          "url": "https://flash.jin10.com/detail/20260619184131740800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "特朗普对LA7表示：意大利总理梅洛尼在七国集团峰会上求我跟她合影。",
+          "url": "https://wallstreetcn.com/livenews/3122070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "特朗普称预计“所有战线都将实现全面停火”",
@@ -626,13 +762,46 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国总统特朗普：意大利总理梅洛尼在G7峰会上恳求与我合影。",
+          "url": "https://flash.jin10.com/detail/20260619182520504800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "说好“纳税人零出资”，特朗普被曝挪用特勤局资金建宴会厅",
+          "url": "https://wallstreetcn.com/livenews/3122057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "美国总统特朗普：欧洲人在能源和移民问题上表现不佳。",
+          "url": "https://flash.jin10.com/detail/20260619182430953800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "韩国总统李在明：特朗普询问我韩国能否尽快帮助建造美国海军舰艇。",
           "url": "https://flash.jin10.com/detail/20260619130852219800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -665,6 +834,20 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时00分 ~ 19时12分]"
+        },
+        {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
@@ -676,18 +859,17 @@
           "time_info": "[02时00分 ~ 06时56分]"
         },
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            6,
-            12
+            2,
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 14时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时19分 ~ 19时12分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -699,18 +881,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时00分 ~ 04时14分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 14时06分]"
         },
         {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
@@ -795,7 +965,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -806,8 +976,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 14时06分]"
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 19时12分]"
+        },
+        {
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -836,11 +1017,12 @@
           "url": "https://www.cls.cn/detail/2404205",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 19时12分]"
         },
         {
           "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
@@ -849,7 +1031,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         },
@@ -899,7 +1081,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时06分"
         }
@@ -915,11 +1097,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 14时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时19分 ~ 19时12分]"
         },
         {
           "title": "如何评价 DeepSeek 的识图模式？",
@@ -928,9 +1111,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 19时12分]"
         }
       ]
     },
@@ -945,11 +1128,12 @@
           "ranks": [
             12,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时00分 ~ 14时06分]"
+          "appearance_count": 9,
+          "time_info": "[02时00分 ~ 19时12分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
