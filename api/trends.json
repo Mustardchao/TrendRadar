@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T18:12:34.294250+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-06-24T21:10:23.098943+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗代表：霍尔木兹海峡已免费开放",
@@ -90,17 +90,51 @@
           "time_info": "00时19分"
         },
         {
+          "title": "国际原子能机构称美伊“口水战”不会阻碍对伊朗的核核查",
+          "url": "https://wallstreetcn.com/livenews/3124046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "卡塔尔首相位于阿曼，参加伊朗与海湾国家的霍尔木兹问题会谈。（法新社）",
+          "url": "https://wallstreetcn.com/livenews/3124045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2052882056875603762",
           "source": "知乎",
           "ranks": [
             15,
             6,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 21时10分]"
         },
         {
           "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
@@ -215,6 +249,28 @@
           "time_info": "00时19分"
         },
         {
+          "title": "据法新社：卡塔尔首相在阿曼与伊朗和海湾国家进行关于霍尔木兹海峡的会谈。",
+          "url": "https://flash.jin10.com/detail/20260624202224510800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：与阿塞拜疆总统在巴库举行了会晤。",
+          "url": "https://flash.jin10.com/detail/20260624202058423800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果伊朗代理人发射导弹，就无法结束该地区的敌对行动。",
           "url": "https://flash.jin10.com/detail/20260624000609278800",
           "source": "金十数据",
@@ -243,7 +299,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -265,9 +321,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
+          "url": "https://wallstreetcn.com/livenews/3124023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "伊朗总统种树太投入 巴总理拦不住",
@@ -276,7 +343,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -298,7 +365,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -309,7 +376,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -358,6 +425,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "美国财长贝森特：我们将与民主党新路线形成鲜明对比。 结构性通胀一直存在于服务业。 没有理由认为301贸易评估不会成功。 在AI领域，法国远远落后于美国和中国，位列第三。 美元主导地位至关重要。 伊朗将以美元为石油贸易开具发票。我们在做的一切，都是推动美元重新回到那里。 委内瑞拉将重回美元体系。 预计一旦俄乌冲突结束，俄罗斯将重新回到美元体系。 伊朗的资金最初将通过多哈发放。美国财政部将派代表坐镇多哈，监督这笔资金如何分配。 其中相当大一部分将用于购买美国食品和药品。",
+          "url": "https://wallstreetcn.com/livenews/3124017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美参议院通过涉伊朗的战争权力决议",
           "url": "https://www.toutiao.com/trending/7653777689459310634/",
           "source": "今日头条",
@@ -375,7 +453,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -416,7 +494,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 41,
       "titles": [
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -441,6 +519,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 21时10分]"
         },
         {
           "title": "特朗普政府将提供175亿美元贷款，推动美国大型核电站建设",
@@ -474,17 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "据英国金融时报：知情人士透露，特朗普在上周的七国集团峰会上对乌克兰在俄罗斯境内进行的远程打击“印象深刻，并表示非常赞赏”。特朗普还同意加大对俄罗斯能源的制裁力度。",
@@ -545,6 +624,19 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 21时10分]"
+        },
+        {
           "title": "国际足联（FIFA）主席：美国总统特朗普将亲自颁发世界杯奖杯。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3123606",
           "source": "华尔街见闻-快讯",
@@ -580,18 +672,6 @@
           "time_info": "[10时01分 ~ 14时07分]"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时06分 ~ 18时12分]"
-        },
-        {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
           "url": "https://news.ifeng.com/c/8uClVTnMwCW",
           "source": "凤凰网",
@@ -609,7 +689,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -631,7 +711,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -642,7 +722,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -653,9 +733,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "特朗普对福克斯表示：视察人员将获准前往伊朗的铀所在地。 不急于派遣视察人员进入伊朗设施。 伊朗初期将获5亿美元，用于购买美国商品。",
+          "url": "https://wallstreetcn.com/livenews/3124039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "国际足联主席：特朗普将亲自颁发世界杯奖杯。​​​",
@@ -702,6 +793,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "皮尤民调：全球对特朗普及美国的信任度下降",
+          "url": "https://flash.jin10.com/detail/20260624202114419800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
           "url": "https://wallstreetcn.com/livenews/3123596",
           "source": "华尔街见闻-快讯",
@@ -711,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国财长贝森特：不确定今年能否在赤字问题上取得进展。 到特朗普任期结束时，赤字/GDP比率可以降至4%以下。",
+          "url": "https://wallstreetcn.com/livenews/3124031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "美国财长贝森特：特朗普和我明白债券市场的力量",
@@ -733,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国财长贝森特：降息阶段，美元仍然可以表现坚挺。 我们热衷于采取行动让美元坚挺。 预计今年剩余时间经济将加速增长，同时不会推高通胀。 我赞赏沃什取消前瞻指引。 认为实际工资增长将恢复到4月之前的节奏。 2月时曾认为通胀到夏中会接近2%。 过去曾（在交易中）与美联储点阵图反向操作。 不认为任何人应该做美联储点阵图预测。 可以实现高GDP增长而不伴随传统意义上的通胀。 很有可能重现上世纪90年代经济持续扩张的态势。 沃什在谈及通胀问题时“态度强硬”。 特朗普公开和私下都表示他对沃什有信心。 认为今年可以实现3%或更高的增长。",
+          "url": "https://wallstreetcn.com/livenews/3124026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "特朗普：大型石油公司没有降低油价，已指示司法部立即调查。 汽油价格“最好赶紧下降”。",
@@ -768,6 +892,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "特朗普：美国将释放部分伊朗资金 伊朗承诺不对霍尔木兹海峡船只收费",
+          "url": "https://wallstreetcn.com/livenews/3124020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国会两院历史性通过撤军决议，特朗普对伊军事政策遭遇强力制衡",
           "url": "https://flash.jin10.com/detail/20260624093242995800",
           "source": "金十数据",
@@ -779,6 +914,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "据福克斯新闻：美国总统特朗普表示，伊朗最初将获得5亿美元用于购买美国商品。",
+          "url": "https://flash.jin10.com/detail/20260624201456730800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "特朗普怒斥油企“宰客”：油价降得太慢太少，司法部给我查！",
           "url": "https://flash.jin10.com/detail/20260624133416216800",
           "source": "金十数据",
@@ -788,12 +934,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，不必急于派检查人员进入伊朗设施。",
+          "url": "https://flash.jin10.com/detail/20260624201250338800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，检查员将被允许进入伊朗铀存放地点。",
+          "url": "https://flash.jin10.com/detail/20260624201135247800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -820,6 +988,17 @@
           "time_info": "[07时46分 ~ 14时07分]"
         },
         {
+          "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货白银失守60美元，布油跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美股集体低开 纳指跌超2%",
           "url": "https://www.douyin.com/hot/2545296",
           "source": "抖音",
@@ -837,7 +1016,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -1052,7 +1231,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -1140,7 +1319,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -1151,6 +1330,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 21时10分]"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -1160,17 +1350,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 06时15分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 18时12分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -1350,6 +1529,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 21时10分]"
+        },
+        {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
@@ -1360,17 +1551,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时19分 ~ 03时01分]"
-        },
-        {
-          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
-          "url": "https://wallstreetcn.com/articles/3775315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 18时12分]"
         }
       ]
     },
