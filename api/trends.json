@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T07:59:12.195452+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-06-29T10:57:50.682579+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -22,6 +22,20 @@
           "time_info": "[00时56分 ~ 07时59分]"
         },
         {
+          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
+        },
+        {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
           "url": "https://www.cls.cn/detail/2411069",
           "source": "财联社热门",
@@ -29,24 +43,26 @@
             8,
             9,
             10,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
         },
         {
-          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
+          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            7
+            16,
+            17,
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -56,24 +72,12 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
-        },
-        {
-          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
         },
         {
           "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
@@ -146,7 +150,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -328,7 +332,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -342,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "霍尔木兹海峡24小时状况监控：进入的油轮数量非常有限，只有一批油轮在美国护航下经由阿曼航线进入。其他进入的油轮均受到制裁，且与伊朗有关。",
+          "url": "https://flash.jin10.com/detail/20260629103210890800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "伊朗队队长：这届世界杯是场灾难",
@@ -402,7 +417,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -416,25 +431,26 @@
           "time_info": "[00时56分 ~ 07时59分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
-        },
-        {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
           "source": "澎湃新闻",
           "ranks": [
             8,
             7,
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -528,6 +544,28 @@
           "time_info": "[03时11分 ~ 04时50分]"
         },
         {
+          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
+          "url": "https://www.cls.cn/detail/2411269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照",
+          "url": "https://www.cls.cn/detail/2411031",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260628220938422800",
           "source": "金十数据",
@@ -553,8 +591,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -595,8 +633,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -621,11 +659,29 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月29日（周一）上海金早盘价为888.54元/克，较国际金价(889.88元/克)，低1.34元/克",
+          "url": "https://flash.jin10.com/detail/20260629101748796800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     }
