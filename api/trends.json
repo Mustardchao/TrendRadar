@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:59:53.288698+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-07-02T20:08:42.332199+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国在北约上的支出超过其他国家，真是荒谬。",
+          "url": "https://flash.jin10.com/detail/20260702200339996800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "特朗普回应赚数十亿美元：靠股市上涨，自己“不管投资”",
@@ -117,7 +128,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -142,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "美国总统特朗普：7月4日大概会有107华氏度的高温，但我还是会去发表一篇非常长的讲话，只是为了证明我什么都能做到。",
@@ -260,7 +282,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -293,7 +315,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -315,7 +337,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -326,7 +348,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -345,7 +367,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗议会议长：不允许核查人员进入受损核设施",
@@ -392,6 +414,18 @@
           "time_info": "06时12分"
         },
         {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 20时08分]"
+        },
+        {
           "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
           "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
           "source": "凤凰网",
@@ -412,6 +446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "伊朗国家队回国向民众道歉",
+          "url": "https://www.toutiao.com/trending/7657124026443402793/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "据伊朗官方通讯社Shana：伊朗准备向除以色列以外的所有国家出售石油。",
@@ -467,17 +512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
         },
         {
           "title": "报道：海湾国家被曝欲独自与伊朗达成地区安全协议",
@@ -541,9 +575,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "伊朗武装部队：美干涉霍尔木兹海峡将遭回击",
+          "url": "https://wallstreetcn.com/livenews/3127982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：（就检查人员的准入问题表示）他们只在两个地方拥有准入权，一个是布什尔核电站，另一个是德黑兰核反应堆。准入范围仅限于此。",
@@ -615,7 +660,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
@@ -639,6 +684,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 04时45分]"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 20时08分]"
         },
         {
           "title": "美股",
@@ -667,18 +725,6 @@
           "time_info": "[04时45分 ~ 06时12分]"
         },
         {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 17时59分]"
-        },
-        {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260702040547223800",
           "source": "金十数据",
@@ -701,6 +747,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 04时45分]"
+        },
+        {
+          "title": "美国6月非农一出，黄金、美元、美股可能这样走",
+          "url": "https://flash.jin10.com/detail/20260702195929462800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "标普500指数初步收跌0.2%，科技板块跌1.7%，能源板块跌0.8%，金融板块涨2.1%，电信板块涨2.6%。 纳斯达克100指数初步收跌1.5%，成分股中，Nebius Group初步收跌16.2%，CoreWeave跌13.6%，科磊、泰瑞达、闪迪跌超10%，美光跌9.9%，阿斯麦ADR跌7.5%，Strategy则涨7.9%，Palantir、拼多多ADR涨8.1%，Meta涨9%，Applovin涨9.6%。 美股存储芯片指数跌超8%，成分股闪迪、泰瑞达、拉姆研究跌约10%。费城半导体指数跌6.3%。 Salesforce、耐克初步收涨超4%，与美国运通、微软、联合健康、IBM领跑道指成分股，思科则跌0.6%，霍尼韦尔、英伟达跌1%，Merck跌2.1%，沃尔玛跌3.8%，卡特彼勒跌6.6%。",
@@ -819,7 +876,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -1021,7 +1078,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
