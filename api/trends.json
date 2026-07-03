@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T19:59:37.521670+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-07-03T21:56:07.413079+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -75,6 +75,20 @@
           "time_info": "05时57分"
         },
         {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 21时56分]"
+        },
+        {
           "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
           "url": "https://www.cls.cn/detail/2416012",
           "source": "财联社热门",
@@ -124,17 +138,16 @@
           "time_info": "[05时57分 ~ 06时58分]"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            16,
-            15
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时20分 ~ 19时59分]"
+          "time_info": "[19时59分 ~ 21时56分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -147,6 +160,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 05时57分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -278,6 +302,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "美国总统特朗普：（被问及加密货币收益）我对此一无所知。",
           "url": "https://flash.jin10.com/detail/20260703052841893800",
           "source": "金十数据",
@@ -331,17 +366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
@@ -754,7 +778,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -781,6 +805,19 @@
           "time_info": "[07时59分 ~ 14时20分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 21时56分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
           "url": "https://wallstreetcn.com/livenews/3128216",
           "source": "华尔街见闻-快讯",
@@ -805,18 +842,6 @@
           "time_info": "[10时35分 ~ 17时49分]"
         },
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 19时59分]"
-        },
-        {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
           "url": "https://wallstreetcn.com/livenews/3128212",
           "source": "华尔街见闻-快讯",
@@ -827,6 +852,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时57分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "周四（7月2日），美股降息赢家指数跌0.02%，报98.42点，在美国非农就业报告出炉后高开低走，整体呈现出W形走势，本周累计下跌1.58%。",
@@ -1001,18 +1037,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时56分]"
         },
         {
           "title": "黎巴嫩总统奥恩：黎巴嫩一些人难以与伊朗和美国的道路保持距离。",
@@ -1021,9 +1058,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
+        },
+        {
+          "title": "伊朗媒体：沙特副外交大臣向伊朗已故最高领袖致敬",
+          "url": "https://flash.jin10.com/detail/20260703214440301800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "伊朗革命卫队总司令现身",
@@ -1031,11 +1079,23 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 21时56分]"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "黎巴嫩总统奥恩：将黎巴嫩与伊朗-美国问题分开是一项主权决定。",
@@ -1044,7 +1104,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1082,6 +1142,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "伊朗总统出席已故最高领袖告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
           "url": "https://wallstreetcn.com/livenews/3128431",
           "source": "华尔街见闻-快讯",
@@ -1093,6 +1164,17 @@
           "time_info": "14时20分"
         },
         {
+          "title": "伊朗已开始就向日本企业出售石油进行谈判。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3128714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
           "url": "https://flash.jin10.com/detail/20260703002320925800",
           "source": "金十数据",
@@ -1102,6 +1184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "路透社获得的北约安卡拉峰会声明显示，北约领导人将声明伊朗绝不能拥有核武器，并呼吁伊朗充分尊重霍尔木兹海峡的航行自由。",
+          "url": "https://flash.jin10.com/detail/20260703210817789800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         },
         {
           "title": "何维将出席伊朗已故最高领袖葬礼",
@@ -1135,6 +1228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://flash.jin10.com/detail/20260703210217525800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时56分"
         }
       ]
     },
@@ -1258,7 +1362,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1284,7 +1388,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
@@ -1369,7 +1473,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         }
