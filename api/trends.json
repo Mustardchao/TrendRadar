@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-08T15:23:03.013889+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-07-08T18:05:23.984295+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 18时05分]"
+        },
         {
           "title": "美军：开始对伊朗发动系列打击",
           "url": "https://www.cls.cn/detail/2419769",
@@ -22,15 +33,16 @@
           "time_info": "[06时04分 ~ 15时23分]"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时24分 ~ 15时23分]"
+          "time_info": "[12时56分 ~ 18时05分]"
         },
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
@@ -45,15 +57,16 @@
           "time_info": "[06时04分 ~ 09时24分]"
         },
         {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
           "source": "凤凰网",
           "ranks": [
+            1,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时23分]"
+          "time_info": "[15时22分 ~ 18时05分]"
         },
         {
           "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
@@ -67,15 +80,16 @@
           "time_info": "[12时56分 ~ 15时23分]"
         },
         {
-          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
-          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
           "source": "凤凰网",
           "ranks": [
-            1
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 18时05分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -100,17 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 09时24分]"
-        },
-        {
-          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
-          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "美军称对伊朗新一轮打击，击中超80个目标",
@@ -141,7 +144,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -218,7 +221,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -319,7 +322,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -330,11 +333,12 @@
           "ranks": [
             17,
             15,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 18时05分]"
         },
         {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
@@ -342,11 +346,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时05分]"
         },
         {
           "title": "美军时隔10天再袭伊朗",
@@ -452,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "伊总统：伊朗拒绝美方“游戏” 坚定维护自身权利",
+          "url": "https://wallstreetcn.com/livenews/3130577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "沙特外交部：伊朗袭击了一艘在霍尔木兹海峡过境的沙特油轮。",
@@ -614,9 +630,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "伊朗驻俄罗斯大使：伊朗前最高领袖哈梅内伊的殉难在地区地缘政治中掀起一场伟大觉醒。",
+          "url": "https://flash.jin10.com/detail/20260708174013504800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "卡塔尔谴责卡方天然气运输船遭袭 称伊朗应承担责任",
@@ -702,7 +729,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -749,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "欧盟航空安全局建议航空公司避开伊朗、伊拉克和黎巴嫩领空",
+          "url": "https://flash.jin10.com/detail/20260708173630177800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "伊朗革命卫队：打击了巴林和科威特的85个美军设施，以“回应美国违反停火协议”的行为。",
@@ -817,6 +855,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "伊朗军方：任何为美军事行动提供支持的来源都将是合法打击目标",
+          "url": "https://wallstreetcn.com/livenews/3130551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "布伦特原油开盘涨2.8%至每桶76.20美元，美国此前空袭伊朗。",
           "url": "https://wallstreetcn.com/livenews/3130245",
           "source": "华尔街见闻-快讯",
@@ -845,7 +894,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -922,7 +971,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -941,7 +990,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -1006,6 +1055,17 @@
           "time_info": "[00时15分 ~ 09时24分]"
         },
         {
+          "title": "特朗普称美伊谅解备忘录已经终结",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "法院记录显示，美国俄勒冈州正寻求获取有关派拉蒙游说特朗普政府支持该并购交易的相关文件。",
           "url": "https://flash.jin10.com/detail/20260708071441781800",
           "source": "金十数据",
@@ -1037,6 +1097,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "特朗普称将取消对土耳其制裁",
@@ -1085,6 +1156,28 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
+          "title": "特朗普要求切断与西班牙贸易往来",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%88%87%E6%96%AD%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B4%B8%E6%98%93%E5%BE%80%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.toutiao.com/trending/7660070986934390335/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国中央司令部正在打击特朗普四个月前声称已经摧毁的目标，因此他们当中有一方在撒谎。",
           "url": "https://flash.jin10.com/detail/20260708070319563800",
           "source": "金十数据",
@@ -1118,6 +1211,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "特朗普发布“美军打击伊朗”视频",
           "url": "https://wallstreetcn.com/livenews/3130364",
           "source": "华尔街见闻-快讯",
@@ -1129,13 +1233,24 @@
           "time_info": "12时56分"
         },
         {
+          "title": "在特朗普发表言论后，交易员预计欧洲央行今年将进一步收紧货币政策36个基点，高于周二的25个基点。",
+          "url": "https://wallstreetcn.com/livenews/3130560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "美伊停火协议裂痕扩大 特朗普难以收场",
           "url": "https://flash.jin10.com/detail/20260708150256432800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
         },
@@ -1149,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "特朗普认为美伊谅解备忘录已终结",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%B7%B2%E7%BB%88%E7%BB%93%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
@@ -1173,6 +1299,28 @@
           "time_info": "12时56分"
         },
         {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.douyin.com/hot/2563445",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "特朗普搅动中东与北约，欧洲两线承压",
+          "url": "https://flash.jin10.com/detail/20260708173307658800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
           "url": "https://wallstreetcn.com/livenews/3130112",
           "source": "华尔街见闻-快讯",
@@ -1182,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "特朗普发表讲话后，日经指数期货跌幅扩大至1.3%。 法国CAC指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3130541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         }
       ]
     },
@@ -1360,7 +1519,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -1413,6 +1572,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时54分]"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -1491,6 +1661,57 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时44分 ~ 06时04分]"
+        },
+        {
+          "title": "gemini为了偷懒不择手段",
+          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        },
+        {
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
+        {
+          "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
+          "url": "https://flash.jin10.com/detail/20260708120738647800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1533,46 +1754,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时44分 ~ 06时04分]"
-        },
-        {
-          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
-          "url": "https://wallstreetcn.com/livenews/3130107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
-          "url": "https://flash.jin10.com/detail/20260708120738647800",
-          "source": "金十数据",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
