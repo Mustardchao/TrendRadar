@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T13:58:53.842170+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-07-10T17:23:42.328783+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时21分 ~ 09时58分]"
         },
         {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 17时23分]"
+        },
+        {
           "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
           "url": "https://news.ifeng.com/c/8udgruF8e0q",
           "source": "凤凰网",
@@ -45,16 +57,17 @@
           "time_info": "[09时58分 ~ 13时58分]"
         },
         {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             5,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时57分 ~ 17时23分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
@@ -88,18 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 13时58分]"
         },
         {
           "title": "据伊朗官方媒体报道：伊朗位于Konarak的海军基地遭到“敌人”袭击。",
@@ -438,9 +439,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 17时23分]"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
@@ -452,18 +465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 13时58分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -495,11 +496,24 @@
           "source": "凤凰网",
           "ranks": [
             6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 17时23分]"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 17时23分]"
         },
         {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
@@ -512,17 +526,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -597,7 +600,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -664,6 +667,17 @@
           "time_info": "[00时21分 ~ 06时13分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 17时23分]"
+        },
+        {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
@@ -698,17 +712,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 13时58分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 13时58分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -856,11 +859,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 17时23分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
