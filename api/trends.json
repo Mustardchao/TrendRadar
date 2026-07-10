@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T01:40:06.767479+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-11T03:13:58.864706+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 22,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -15,30 +15,98 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
-          "title": "伊朗首席谈判代表卡利巴夫表示，近期的冲突绝不会以伊朗的投降而告终。 如果美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
-          "url": "https://wallstreetcn.com/livenews/3132201",
+          "title": "据伊通社（IRNA）：伊朗外长阿拉格齐将于周六率团访问阿曼，就霍尔木兹海峡问题及双边关系举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260711025239161800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
+          "url": "https://wallstreetcn.com/livenews/3132222",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗最高领袖陷入孤立，将继续施压切断伊朗领导层与全球金融体系联系。",
+          "url": "https://flash.jin10.com/detail/20260711024549926800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "CNN：卫星图像显示伊朗或正在重建核设施，疑违反美伊协议",
+          "url": "https://flash.jin10.com/detail/20260711024540682800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗首席谈判代表卡利巴夫表示，近期的冲突绝不会以伊朗的投降而告终。 如果美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
+          "url": "https://wallstreetcn.com/livenews/3132201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时13分]"
         },
         {
           "title": "对话伊朗问题专家：伊朗在十字路口，决定未来的已不再是战争",
           "url": "https://m.thepaper.cn/newsDetail_forward_33553349",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
+        },
+        {
+          "title": "据CNN：卫星图像显示，伊朗可能正在重建部分核设施。",
+          "url": "https://flash.jin10.com/detail/20260711024000715800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国发布针对伊朗的新制裁措施",
+          "url": "https://wallstreetcn.com/livenews/3132218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "伊朗议长放话：不会投降，若美方“背信”将全面防御",
@@ -47,7 +115,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -58,9 +126,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "伊朗西部一座炼油厂发生大火",
+          "url": "https://wallstreetcn.com/livenews/3132214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：冲突不会以伊朗屈服结束。",
@@ -69,9 +148,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "伊朗西部一座炼油厂发生大火",
+          "url": "https://flash.jin10.com/detail/20260711022859686800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国发布针对伊朗的新制裁措施，涉及8名个人和6家企业。",
+          "url": "https://flash.jin10.com/detail/20260711021326882800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
@@ -80,7 +181,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -91,9 +192,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "伊朗议会议长：若美背弃协议，伊将坚决对抗",
+          "url": "https://wallstreetcn.com/livenews/3132208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "巴基斯坦Sharif：与伊朗总统通话。 我们讨论了地区局势。 同意推进双边合作。",
+          "url": "https://wallstreetcn.com/livenews/3132207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗波勒道赫塔尔一座小型炼油厂发生火灾，因火势猛烈消防人员难以接近火场。",
+          "url": "https://flash.jin10.com/detail/20260711015518841800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "分析师：伊朗局势紧张威胁南美农户化肥供应",
@@ -102,7 +236,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -113,7 +247,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         }
@@ -128,11 +262,12 @@
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -142,8 +277,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -153,8 +288,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -164,8 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -175,8 +310,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "存储芯片巨头SK海力士登陆美股",
@@ -186,8 +321,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -196,7 +331,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -207,7 +342,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         }
@@ -215,7 +350,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
@@ -224,7 +359,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         },
@@ -236,8 +371,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -247,8 +382,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -258,8 +393,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         },
         {
           "title": "特朗普宣布美伊“停火结束”后，美军称暂无行动变化",
@@ -268,9 +403,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "土耳其外交部长：土方认为特朗普此前关于“停火结束”的表态，并不意味着停火协议真的终止，而是针对伊美之间近期发生事件的回应。",
+          "url": "https://flash.jin10.com/detail/20260711020724200800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普宣布美伊“停火结束”后 美军称暂无行动变化",
@@ -279,7 +425,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
         }
@@ -297,8 +443,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时13分]"
         }
       ]
     },
@@ -311,11 +457,12 @@
           "url": "https://wallstreetcn.com/livenews/3132197",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 03时13分]"
         }
       ]
     }
