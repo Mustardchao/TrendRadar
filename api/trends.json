@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T20:18:42.020545+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-07-10T23:25:51.135195+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 45,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 23时25分]"
         },
         {
           "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
@@ -43,20 +57,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 09时58分]"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 20时18分]"
         },
         {
           "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
@@ -93,6 +93,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
+          "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
           "url": "https://wallstreetcn.com/livenews/3131587",
           "source": "华尔街见闻-快讯",
@@ -110,7 +121,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -217,6 +228,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "美国驻联合国代表：我们希望伊朗选择遵守其义务。",
+          "url": "https://flash.jin10.com/detail/20260710231534275800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "以色列防长Katz：如果威胁再次出现，以色列将准备恢复袭击伊朗。",
           "url": "https://wallstreetcn.com/livenews/3131464",
           "source": "华尔街见闻-快讯",
@@ -226,6 +248,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
+          "url": "https://wallstreetcn.com/livenews/3132157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国驻联合国代表：与伊朗的外交渠道仍然开放。",
+          "url": "https://flash.jin10.com/detail/20260710231502138800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "伊朗谴责美军打击伊海事基础设施",
@@ -261,6 +305,28 @@
           "time_info": "02时46分"
         },
         {
+          "title": "美国驻联合国代表：伊朗采取的行动与谅解备忘录相悖。",
+          "url": "https://flash.jin10.com/detail/20260710231454490800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国驻联合国代表：伊朗已部署巡航导弹和无人机以攻击商船。",
+          "url": "https://flash.jin10.com/detail/20260710231445862800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔省科纳拉克传出三声爆炸声。目前尚无关于爆炸原因以及可能造成损失程度的详细信息。",
           "url": "https://flash.jin10.com/detail/20260710022142127800",
           "source": "金十数据",
@@ -278,9 +344,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "美国驻联合国代表：伊朗领导人面临历史性机会，决定权在他们手中。",
+          "url": "https://flash.jin10.com/detail/20260710231439602800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美军击毁伊朗阿巴斯港30艘渔船",
@@ -289,9 +366,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "美联储：AI相关投资推动产出强劲增长 伊朗战争不确定性仍是主要风险",
+          "url": "https://flash.jin10.com/detail/20260710231132564800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
@@ -344,7 +432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -393,6 +481,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "美联储半年期报告：尽管因伊朗战争带来较高不确定性，经济活动仍以稳健速度扩张。",
+          "url": "https://flash.jin10.com/detail/20260710230317667800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "伊朗遭袭系误报，实为防空系统启动",
           "url": "https://flash.jin10.com/detail/20260710034807607800",
           "source": "金十数据",
@@ -418,7 +517,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -507,9 +606,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 23时25分]"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
@@ -521,19 +634,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 20时18分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -584,6 +684,28 @@
           "time_info": "[06时13分 ~ 07时57分]"
         },
         {
+          "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
+          "url": "https://news.ifeng.com/c/8uec7dkVT5P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美国总统特朗普：我在伊朗的暗杀名单上排第一已经很久了。",
+          "url": "https://flash.jin10.com/detail/20260710231707241800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
           "url": "https://flash.jin10.com/detail/20260710042151909800",
           "source": "金十数据",
@@ -604,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及如果被伊朗成功行刺）我希望你们会想念我。",
+          "url": "https://flash.jin10.com/detail/20260710231638624800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们已经赢了，尤其是在军事领域。",
@@ -639,6 +772,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "特朗普：我若遇刺 将对伊朗实施狂轰滥炸",
+          "url": "https://flash.jin10.com/detail/20260710230827186800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
           "url": "https://flash.jin10.com/detail/20260710035930896800",
           "source": "金十数据",
@@ -650,13 +794,24 @@
           "time_info": "04时42分"
         },
         {
+          "title": "特朗普：美方已同意继续和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3132146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
           "url": "https://flash.jin10.com/detail/20260710193712457800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -714,12 +869,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "特朗普宣布停火协议结束，称：同意继续与伊朗对话",
+          "url": "https://wallstreetcn.com/livenews/3132141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -742,8 +908,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 20时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 23时25分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -817,6 +983,28 @@
           "time_info": "[07时57分 ~ 13时58分]"
         },
         {
+          "title": "静待SK海力士IPO，美股指开盘涨跌互现，存储股走低，Meta涨5%，布油企稳",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
+          "url": "https://www.cls.cn/detail/2423160",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
           "url": "https://wallstreetcn.com/livenews/3131557",
           "source": "华尔街见闻-快讯",
@@ -834,9 +1022,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2423243",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美股存储芯片指数初步收涨约5%，费城半导体指数涨约3%。 标普500指数初步收涨0.7%，科技板块涨1.6%，可选消费板块涨1.2%，能源板块跌1.6%，日用消费品板块跌1.7%。 纳斯达克100指数初步收涨1.6%，成分股中，Lumentum初步收涨11.3%，Arm控股涨9.1%，闪迪涨7.5%，拉姆研究涨5.6%，Meta涨4.8%，西部数据涨4.4%，美光涨4.2%连续两个交易日反弹，特斯拉涨2.9%，Diamondback Energy跌2.4%，百事可乐跌3.3%，AXON跌3.6%，开市客跌4.1%。",
@@ -859,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "存储芯片巨头SK海力士登陆美股",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股收盘）",
@@ -911,7 +1121,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -943,8 +1153,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 20时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 23时25分]"
         },
         {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
