@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T18:53:06.718777+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-07-11T19:42:44.251527+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 68,
+      "match_count": 73,
       "titles": [
         {
           "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
@@ -31,6 +31,17 @@
           "time_info": "[12时51分 ~ 15时05分]"
         },
         {
+          "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
+          "url": "https://news.ifeng.com/c/8uftNlwm3k6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 19时42分]"
+        },
+        {
           "title": "据Axios：一位美国官员表示，“如果明天他们（伊朗）不作出相关表态，那明天对他们来说可不会是个好日子。”",
           "url": "https://flash.jin10.com/detail/20260711054133389800",
           "source": "金十数据",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时56分 ~ 09时22分]"
-        },
-        {
-          "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
-          "url": "https://news.ifeng.com/c/8uftNlwm3k6",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 18时53分]"
         },
         {
           "title": "伊朗媒体称，伊朗西部小型炼油厂火灾已得到控制",
@@ -88,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴在书面声明中表示，为其遇刺身亡的前任最高领袖及父亲复仇，是国家和民族的要求，且“必定”会实现。",
-          "url": "https://flash.jin10.com/detail/20260711183650245800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "伊朗外交部：从未提出与美谈判诉求，同意调解方访伊",
@@ -174,17 +163,6 @@
           "time_info": "15时05分"
         },
         {
-          "title": "伊朗称美方撤回立场前不会进行任何谈判",
-          "url": "https://flash.jin10.com/detail/20260711180734540800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
           "title": "伊朗外交部发言人巴盖伊：伊朗不会允许对遭美国和以色列袭击受损的设施进行核查，《联合国安理会第2231号决议》实际上已失去法律效力。",
           "url": "https://flash.jin10.com/detail/20260711043020224800",
           "source": "金十数据",
@@ -251,11 +229,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时42分]"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴在书面声明中表示，为其遇刺身亡的前任最高领袖及父亲复仇，是国家和民族的要求，且“必定”会实现。",
+          "url": "https://flash.jin10.com/detail/20260711183650245800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时53分]"
+          "time_info": "[18时53分 ~ 19时42分]"
         },
         {
           "title": "伊朗首席谈判代表卡利巴夫表示，近期的冲突绝不会以伊朗的投降而告终。 如果美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
@@ -295,6 +286,19 @@
           "time_info": "[05时56分 ~ 09时22分]"
         },
         {
+          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
+          "url": "https://wallstreetcn.com/livenews/3132330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时42分]"
+        },
+        {
           "title": "美媒：伊朗称霍尔木兹袭船系“内部失误”所致",
           "url": "https://flash.jin10.com/detail/20260711051458798800",
           "source": "金十数据",
@@ -306,6 +310,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时56分 ~ 09时22分]"
+        },
+        {
+          "title": "伊朗称美方撤回立场前不会进行任何谈判",
+          "url": "https://flash.jin10.com/detail/20260711180734540800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时42分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：基于负责任立场，未拒绝地区调解方访伊并就最新事态举行会谈的请求。",
@@ -345,18 +361,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时56分 ~ 09时22分]"
-        },
-        {
-          "title": "伊朗德黑兰省东部爆炸系销毁未爆炸弹和弹药造成",
-          "url": "https://wallstreetcn.com/livenews/3132330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时53分]"
         },
         {
           "title": "伊朗外交部发言人巴盖伊：卡塔尔代表团访问伊朗马什哈德，伊方已向其传达观点和立场。",
@@ -532,6 +536,18 @@
           "time_info": "[04时58分 ~ 05时56分]"
         },
         {
+          "title": "据伊朗国家媒体：伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息。",
+          "url": "https://flash.jin10.com/detail/20260711172652226800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时42分]"
+        },
+        {
           "title": "据CNN：卫星图像显示，伊朗可能正在重建部分核设施。",
           "url": "https://flash.jin10.com/detail/20260711024000715800",
           "source": "金十数据",
@@ -552,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
+          "url": "https://wallstreetcn.com/livenews/3132344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：若美方背弃谅解备忘录，德黑兰已准备好进行“全面防御”。",
@@ -609,6 +636,28 @@
           "time_info": "03时13分"
         },
         {
+          "title": "伊朗最高领袖称将报复美以",
+          "url": "https://flash.jin10.com/detail/20260711184746436800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
+          "url": "https://wallstreetcn.com/livenews/3132342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "伊朗外交部发言人巴盖伊：美国多次违反相关谅解备忘录中的承诺，伊朗的政策仍基于“承诺换承诺”原则，任何来自华盛顿的违约行为都将遭到伊朗的对等回应。",
           "url": "https://flash.jin10.com/detail/20260711040736938800",
           "source": "金十数据",
@@ -618,17 +667,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗最高领袖将在未来数小时内发表有关前任遇害领袖的葬礼的信息。",
-          "url": "https://flash.jin10.com/detail/20260711172652226800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "美国发布针对伊朗的新制裁措施，涉及8名个人和6家企业。",
@@ -651,6 +689,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：我们发誓要向“犯下罪行的可耻凶手们”讨还“殉道领袖及这两场战争中所有烈士的鲜血”。",
+          "url": "https://flash.jin10.com/detail/20260711183823874800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
+          "url": "https://wallstreetcn.com/livenews/3132340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "伊朗知情人士：伊美下周举行新一轮谈判消息不实",
@@ -810,7 +870,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普搞中国那套，拿来对付西班牙？",
@@ -825,6 +885,17 @@
           "time_info": "[01时39分 ~ 12时52分]"
         },
         {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时04分 ~ 19时42分]"
+        },
+        {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
           "url": "https://news.ifeng.com/c/8uec7dkVT5P",
           "source": "凤凰网",
@@ -837,17 +908,6 @@
           "time_info": "[01时39分 ~ 12时52分]"
         },
         {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时53分]"
-        },
-        {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
           "source": "澎湃新闻",
@@ -856,8 +916,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时53分]"
+          "appearance_count": 7,
+          "time_info": "[15时04分 ~ 19时42分]"
         },
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -902,11 +962,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时42分]"
         },
         {
           "title": "美国总统特朗普：原来的那份协议我无法接受！新协议很棒，也很公平。感谢加拿大政府，并祝贺他们。愿我们两国在这一精彩的新工程上共同取得多年成功！！",
@@ -958,6 +1019,18 @@
           "time_info": "[12时52分 ~ 15时05分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
+          "url": "https://flash.jin10.com/detail/20260711180323221800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 19时42分]"
+        },
+        {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://wallstreetcn.com/livenews/3132301",
           "source": "华尔街见闻-快讯",
@@ -992,17 +1065,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 15时05分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-11）",
-          "url": "https://flash.jin10.com/detail/20260711180323221800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "沙特王储与特朗普通电话，谈及美伊谈判",
@@ -1091,6 +1153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "六成美国民众认为特朗普以权谋私",
+          "url": "https://www.toutiao.com/trending/7660740613621841939/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     },
@@ -1111,8 +1184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时48分 ~ 18时53分]"
+          "appearance_count": 13,
+          "time_info": "[06时48分 ~ 19时42分]"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -1137,8 +1210,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时39分 ~ 18时53分]"
+          "appearance_count": 18,
+          "time_info": "[01时39分 ~ 19时42分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -1150,8 +1223,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时45分 ~ 18时53分]"
+          "appearance_count": 12,
+          "time_info": "[07时45分 ~ 19时42分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -1177,11 +1250,12 @@
             9,
             8,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时39分 ~ 18时53分]"
+          "appearance_count": 18,
+          "time_info": "[01时39分 ~ 19时42分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -1205,8 +1279,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 18时53分]"
+          "appearance_count": 7,
+          "time_info": "[15时04分 ~ 19时42分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
