@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T15:25:39.890827+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-07-19T17:43:08.766178+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时58分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[03时58分 ~ 17时43分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -44,6 +44,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时58分 ~ 09时23分]"
+        },
+        {
+          "title": "美伊交锋波及多国民用设施，伊朗预警将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8usQYImeW3f",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 17时43分]"
         },
         {
           "title": "伊朗已停止履行伊美谅解备忘录",
@@ -95,16 +107,27 @@
           "time_info": "[02时43分 ~ 09时23分]"
         },
         {
-          "title": "美伊交锋波及多国民用设施，伊朗预警将“全面进攻”",
-          "url": "https://news.ifeng.com/c/8usQYImeW3f",
+          "title": "一觉醒来，伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时22分 ~ 15时25分]"
+          "time_info": "[12时59分 ~ 17时43分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 17时43分]"
         },
         {
           "title": "美国袭击伊朗在波斯湾周边的锡里克（Sirik）。（伊朗媒体Tasnim）",
@@ -185,17 +208,6 @@
           "time_info": "[00时42分 ~ 07时41分]"
         },
         {
-          "title": "一觉醒来，伊朗让美军付出重大代价",
-          "url": "https://news.ifeng.com/c/8usdq92gz1I",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时25分]"
-        },
-        {
           "title": "伊朗国家电视台：伊朗最高领袖哈梅内伊将于当地时间20:00针对国家问题发布声明。",
           "url": "https://wallstreetcn.com/livenews/3136072",
           "source": "华尔街见闻-快讯",
@@ -208,16 +220,17 @@
           "time_info": "[01时46分 ~ 07时41分]"
         },
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            8,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 17时43分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
@@ -284,9 +297,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
+          "url": "https://www.cls.cn/detail/2430324",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 17时43分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：至少六枚导弹击中伊朗的凯什姆岛郊区。",
@@ -306,7 +331,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -343,7 +368,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -446,19 +471,6 @@
           "time_info": "[01时46分 ~ 03时58分]"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时22分 ~ 15时25分]"
-        },
-        {
           "title": "伊朗媒体称美军再次袭击格什姆岛",
           "url": "https://wallstreetcn.com/livenews/3136145",
           "source": "华尔街见闻-快讯",
@@ -508,16 +520,17 @@
           "time_info": "[12时59分 ~ 15时25分]"
         },
         {
-          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
-          "url": "https://www.cls.cn/detail/2430324",
-          "source": "财联社热门",
+          "title": "伊朗直接掀了桌子",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9B%B4%E6%8E%A5%E6%8E%80%E4%BA%86%E6%A1%8C%E5%AD%90%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            12
+            30,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时22分 ~ 15时25分]"
+          "time_info": "[12时59分 ~ 17时43分]"
         },
         {
           "title": "市场消息：初步报道显示，伊朗港口城市阿巴斯港发生爆炸。",
@@ -531,6 +544,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时58分 ~ 05时39分]"
+        },
+        {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时43分]"
         },
         {
           "title": "美国中央司令部：美军继续严格执行针对伊朗正在实施的海上封锁。截至7月18日，美国中央司令部已改道5艘商船，并使1艘船舶失去行动能力。",
@@ -678,18 +703,6 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "伊朗直接掀了桌子",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9B%B4%E6%8E%A5%E6%8E%80%E4%BA%86%E6%A1%8C%E5%AD%90%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时25分]"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：美国既然执意挑起战火，并准备承担更加沉重的代价和更大的耻辱，就应当知道，伊朗人民和抵抗阵线已为其准备了永远无法忘记的教训。",
           "url": "https://flash.jin10.com/detail/20260719003308865800",
           "source": "金十数据",
@@ -763,7 +776,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -840,9 +853,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "据巴林国家电视台：巴林防空系统拦截了伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260719164759505800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "据沙特媒体哈达斯：以色列安全消息人士表示，伊朗最高领袖穆罕默德·穆杰塔巴·哈梅内伊目前不在伊朗境内。",
@@ -851,7 +875,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -873,7 +897,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -917,7 +941,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -939,7 +963,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1021,6 +1045,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "伊朗方面发布约旦一处美国战斗机机库遭毁坏的卫星图像",
+          "url": "https://flash.jin10.com/detail/20260719161015049800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
           "url": "https://flash.jin10.com/detail/20260718212017645800",
           "source": "金十数据",
@@ -1041,17 +1076,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "伊朗：将“毁灭性回击”美国野蛮行径",
@@ -1080,8 +1104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时58分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[03时58分 ~ 17时43分]"
         },
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -1163,6 +1187,19 @@
           "time_info": "[00时42分 ~ 07时41分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 17时43分]"
+        },
+        {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
           "url": "https://flash.jin10.com/detail/20260719013910983800",
           "source": "金十数据",
@@ -1240,18 +1277,6 @@
           "time_info": "[02时43分 ~ 04时39分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时25分]"
-        },
-        {
           "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
           "url": "https://flash.jin10.com/detail/20260719043315182800",
           "source": "金十数据",
@@ -1263,6 +1288,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时39分 ~ 09时23分]"
+        },
+        {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 17时43分]"
         },
         {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
@@ -1300,18 +1338,6 @@
           "time_info": "[01时46分 ~ 02时43分]"
         },
         {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时25分]"
-        },
-        {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -1340,7 +1366,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -1359,8 +1385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时25分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 17时43分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -1380,11 +1406,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 17时43分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -1393,7 +1420,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -1425,11 +1452,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 17时43分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -1469,9 +1497,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时43分]"
         }
       ]
     },
