@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T20:18:52.789992+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-07-21T22:54:12.775741+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 70,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 20时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 22时54分]"
         },
         {
           "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
@@ -53,6 +53,17 @@
           "time_info": "[09时22分 ~ 12时56分]"
         },
         {
+          "title": "伊朗还有两大杀手锏",
+          "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
           "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
           "url": "https://wallstreetcn.com/articles/3777457",
           "source": "华尔街见闻",
@@ -75,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗革命卫队打击了科威特贾比尔基地的美军雷达。",
+          "url": "https://flash.jin10.com/detail/20260721224818568800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美国完成对伊朗的最新一轮打击。",
@@ -133,6 +155,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "科威特外交部：科威特已就伊朗周一在霍尔木兹海峡袭击科威特油轮“KAIFAN”号一事召见伊朗大使，提出抗议。",
+          "url": "https://flash.jin10.com/detail/20260721224247956800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "伊媒：伊朗南部两省传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3137024",
           "source": "华尔街见闻-快讯",
@@ -155,6 +188,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "巴基斯坦总理会见伊朗内政部长 讨论中东局势",
+          "url": "https://wallstreetcn.com/livenews/3137640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "据约旦国家电视台：约旦武装部队拦截了从伊朗发射的三枚导弹，目前暂无人员伤亡或财产损失报告。",
           "url": "https://flash.jin10.com/detail/20260721023211118800",
           "source": "金十数据",
@@ -172,7 +216,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -450,7 +494,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -477,6 +521,28 @@
           "time_info": "18时12分"
         },
         {
+          "title": "伊朗内政部长：我们赞赏巴基斯坦为签署谅解备忘录所做的努力。",
+          "url": "https://flash.jin10.com/detail/20260721222147051800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "伊朗外长披露伊美停火谈判幕后细节",
+          "url": "https://wallstreetcn.com/livenews/3137628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗布什尔省省长表示，当地防空系统已启动，以应对敌对飞行器威胁。截至目前，布什尔地区尚未发生任何袭击命中事件。",
           "url": "https://flash.jin10.com/detail/20260721043939359800",
           "source": "金十数据",
@@ -494,7 +560,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -571,7 +637,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -653,6 +719,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "巴基斯坦总理：（对伊朗内政部长表示）我们对近期地区局势升级感到担忧，各方应保持克制。",
+          "url": "https://flash.jin10.com/detail/20260721221530413800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "东盟外长会议警告伊朗战争外溢风险",
           "url": "https://wallstreetcn.com/livenews/3137381",
           "source": "华尔街见闻-快讯",
@@ -681,7 +758,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -695,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "科威特：正在应对伊朗的导弹和无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3137610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "伊朗战争迫使亚洲国家高价买“气”",
@@ -911,6 +999,18 @@
           "time_info": "[15时27分 ~ 20时18分]"
         },
         {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时18分 ~ 22时54分]"
+        },
+        {
           "title": "舒默称特朗普是美国史上最腐败总统",
           "url": "https://www.toutiao.com/trending/7663682649068109887/",
           "source": "今日头条",
@@ -1038,17 +1138,6 @@
           "time_info": "04时59分"
         },
         {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
           "url": "https://wallstreetcn.com/livenews/3137065",
           "source": "华尔街见闻-快讯",
@@ -1129,7 +1218,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -1137,11 +1226,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时45分 ~ 20时18分]"
+          "appearance_count": 10,
+          "time_info": "[07时45分 ~ 22时54分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -1204,6 +1294,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时50分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -1277,6 +1389,17 @@
           "time_info": "[04时59分 ~ 05时58分]"
         },
         {
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
           "url": "https://wallstreetcn.com/livenews/3137072",
           "source": "华尔街见闻-快讯",
@@ -1295,7 +1418,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1306,7 +1429,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1361,7 +1484,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1377,13 +1500,35 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超3%，全球科技股指数ETF涨超2%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3137614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美股盘初：纳指涨1%，费城半导体指数涨4.5%，存储芯片股、光通信股大涨",
+          "url": "https://wallstreetcn.com/livenews/3137613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "礼来(LLY.N)美股盘前小幅走低，现跌0.58%。",
           "url": "https://flash.jin10.com/detail/20260721193857975800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -1394,7 +1539,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         }
@@ -1445,6 +1590,18 @@
           "time_info": "[15时27分 ~ 20时18分]"
         },
         {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时54分]"
+        },
+        {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
@@ -1456,17 +1613,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时58分 ~ 07时46分]"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 20时18分]"
         }
       ]
     },
@@ -1474,6 +1620,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 22时54分]"
+        },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
           "url": "https://www.cls.cn/detail/2431896",
@@ -1485,19 +1644,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 15时28分]"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 20时18分]"
         },
         {
           "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
@@ -1607,6 +1753,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10,
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时56分 ~ 22时54分]"
+        },
+        {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
@@ -1618,26 +1779,12 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时22分 ~ 18时12分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            10,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 20时18分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
@@ -1649,6 +1796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美债收益率随油价持续攀升，美国10年期和30年期国债收益率升至两个月来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3137618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     }
