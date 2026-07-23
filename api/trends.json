@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T13:14:00.299267+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-07-23T16:08:39.755430+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 07时53分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：希望胡塞武装能够停止攻击，他们被伊朗愚弄了。",
+          "url": "https://flash.jin10.com/detail/20260723155531970800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国战争部长在国会听证会上接受质询期间，竟没有一个问题涉及这场对伊朗战争的人道影响，尽管各方都清楚，这是一场非法发动的战争。",
@@ -43,6 +54,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：看来伊朗尚未准备好达成协议，他们将付出代价。伊朗的代价将每晚增大，直到他们清醒过来。",
+          "url": "https://flash.jin10.com/detail/20260723155446040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
@@ -146,7 +168,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -212,7 +234,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -234,7 +256,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -404,6 +426,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "亚运会中国男足与伊朗朝鲜阿联酋同组",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%9C%9D%E9%B2%9C%E9%98%BF%E8%81%94%E9%85%8B%E5%90%8C%E7%BB%84",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "美情报机构调查俄罗斯是否协助伊朗锁定CIA海湾设施目标",
           "url": "https://flash.jin10.com/detail/20260723024510204800",
           "source": "金十数据",
@@ -432,7 +465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -454,7 +487,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -509,7 +542,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -539,7 +572,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -551,8 +584,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 16时08分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -573,8 +606,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 16时08分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -585,8 +618,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 16时08分]"
         },
         {
           "title": "Alphabet(GOOG.O)首席执行官：谷歌云第二季度积压订单增至5140亿美元。",
@@ -668,6 +701,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "谷歌母公司Alphabet的CEO：公司在Gemini 4侧重于AI计算。 公司将加快发布AI模型的速度。 TPU作为独立系统的需求强劲。",
           "url": "https://wallstreetcn.com/livenews/3138423",
           "source": "华尔街见闻-快讯",
@@ -688,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
+          "url": "https://www.cls.cn/detail/2434535",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "谷歌母公司Alphabet二季度营收1198亿美元，分析师预期1170.2亿美元。 二季度剔除流量获取成本（Ex-TAC）营收103.6亿美元，分析师预期1010.7亿美元。 二季度谷歌云营收247.7亿美元，分析师预期224.6亿美元；谷歌云订单积压5140亿美元。 二季度谷歌搜索与其他收入632.7亿美元，分析师预期632.8亿美元。 二季度搜索同比增长17%。 二季度谷歌服务营收945.4亿美元，分析师预期943.2亿美元。 二季度谷歌广告营收816.3亿美元，分析师预期811.2亿美元。 二季度YouTube广告营收110.6亿美元，分析师预期108.1亿美元。 二季度运营利润407.6亿美元，分析师预期405.5亿美元。 二季度资本开支449.2亿美元，分析师预期441.5亿美元。 没有按市价出售任何股份，股权增长990.3亿美元。 谷歌A美股盘后跌1.24%，暂报337.84美元。",
@@ -807,6 +862,17 @@
           "time_info": "[00时13分 ~ 07时53分]"
         },
         {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 16时08分]"
+        },
+        {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -841,17 +907,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时55分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 13时14分]"
         },
         {
           "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
@@ -1028,7 +1083,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -1064,8 +1119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[09时28分 ~ 16时08分]"
         },
         {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
@@ -1080,6 +1135,18 @@
           "time_info": "[07时53分 ~ 09时29分]"
         },
         {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 16时08分]"
+        },
+        {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
           "source": "澎湃新闻",
@@ -1091,17 +1158,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 09时29分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
@@ -1138,6 +1194,18 @@
           "time_info": "[09时28分 ~ 13时14分]"
         },
         {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 16时08分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -1147,17 +1215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
@@ -1205,6 +1262,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
+          "url": "https://www.zhihu.com/question/2062856603762742765",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
           "url": "https://wallstreetcn.com/livenews/3138289",
           "source": "华尔街见闻-快讯",
@@ -1244,8 +1312,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 16时08分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -1458,8 +1526,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十图示：2026年07月23日（周四）上海金午盘价为896.63元/克，较国际金价(891.25元/克)，高5.38元/克",
+          "url": "https://flash.jin10.com/detail/20260723154915285800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
         {
           "title": "金价涨超1%，重返4100美元上方，纽约铜跌1%",
           "url": "https://wallstreetcn.com/livenews/3138415",
