@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-28T18:20:56.151597+08:00",
-  "total_titles_processed": 1286,
-  "failed_sources": [],
+  "generated_at": "2026-07-28T20:30:47.839997+08:00",
+  "total_titles_processed": 1433,
+  "failed_sources": [
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "内塔尼亚胡访美，会与特朗普聊啥？",
@@ -41,6 +43,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时52分 ~ 18时20分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 20时30分]"
         },
         {
           "title": "600名以色列前高官联名致信特朗普，发出警告",
@@ -86,19 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 18时20分]"
         },
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -268,7 +271,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -537,6 +540,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "美媒：内塔尼亚胡本次访美对特朗普决策的影响大不如前",
+          "url": "https://flash.jin10.com/detail/20260728201348874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
           "url": "https://wallstreetcn.com/livenews/3140491",
           "source": "华尔街见闻-快讯",
@@ -653,7 +667,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -675,7 +689,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -693,344 +707,22 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 29,
+      "keyword_group": "美股",
+      "match_count": 30,
       "titles": [
         {
-          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
-          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 06时05分]"
-        },
-        {
-          "title": "事关美国军机部署，伊朗第3次警告保加利亚",
-          "url": "https://news.ifeng.com/c/8v6pJifxdFC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 06时05分]"
-        },
-        {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 07时53分]"
-        },
-        {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 07时53分]"
-        },
-        {
-          "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://news.ifeng.com/c/8v6m9Pp9uJ2",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 07时53分]"
-        },
-        {
-          "title": "对伊朗停火 美国是不打了还是打不了",
-          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            22,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 07时53分]"
-        },
-        {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://www.toutiao.com/trending/7667130069253013558/",
-          "source": "今日头条",
-          "ranks": [
+            4,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 20时30分]"
         },
-        {
-          "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
-          "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
-          "url": "https://flash.jin10.com/detail/20260728025702923800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
-          "url": "https://flash.jin10.com/detail/20260728044945651800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时05分]"
-        },
-        {
-          "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
-          "url": "https://flash.jin10.com/detail/20260728044248647800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时05分]"
-        },
-        {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时20分]"
-        },
-        {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时20分]"
-        },
-        {
-          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时20分]"
-        },
-        {
-          "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260728040942338800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时05分]"
-        },
-        {
-          "title": "博主：泽连斯基早就对伊朗怀恨在心",
-          "url": "https://www.toutiao.com/trending/7667443070362717742/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "美称若谈判破裂将强力打击伊朗",
-          "url": "https://www.toutiao.com/trending/7667350797637652011/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%A4%84%E4%BA%8E%E6%88%98%E4%BA%89%E4%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
-          "url": "https://flash.jin10.com/detail/20260728005241733800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "伊朗导弹甩开美军多枚拦截弹画面",
-          "url": "https://www.toutiao.com/trending/7666729375357865515/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "泽连斯基：与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
-          "url": "https://wallstreetcn.com/livenews/3140435",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
-          "url": "https://wallstreetcn.com/livenews/3140458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
-          "url": "https://wallstreetcn.com/livenews/3140434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：对美国罪行的调查将继续进行，即使需要15年时间。",
-          "url": "https://flash.jin10.com/detail/20260728020110622800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据伊朗媒体FarsNews：伊拉克消息人士称，一架美国无人机在伊拉克西部安巴尔省被击落。",
-          "url": "https://flash.jin10.com/detail/20260728034720418800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "克里姆林宫：乌克兰对伊朗船只的攻击就是对伊朗的攻击。",
-          "url": "https://flash.jin10.com/detail/20260728174837909800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "克里姆林宫：乌克兰炸毁了德国的北溪天然气管道，攻击中亚管道基础设施对哈萨克斯坦造成了伤害，并且现在又袭击了一艘伊朗船只。",
-          "url": "https://flash.jin10.com/detail/20260728174822967800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 25,
-      "titles": [
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
@@ -1043,19 +735,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时27分 ~ 09时21分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 18时20分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -1145,6 +824,19 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 20时30分]"
+        },
+        {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
@@ -1181,28 +873,17 @@
           "time_info": "[05时01分 ~ 06时05分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时20分]"
-        },
-        {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2065354296774989670",
           "source": "知乎",
           "ranks": [
             20,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 20时29分]"
         },
         {
           "title": "美股上演芯片风暴 苹果重返市值第一",
@@ -1215,6 +896,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时53分 ~ 09时21分]"
+        },
+        {
+          "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
+          "url": "https://www.cls.cn/detail/2438661",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时30分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -1299,15 +991,15 @@
           "time_info": "07时53分"
         },
         {
-          "title": "美股跌完韩股跌！美韩科技股联动性飙升，分散投资优势逐步消退",
-          "url": "https://www.cls.cn/detail/2438661",
-          "source": "财联社热门",
+          "title": "康宁美股盘前大跌超15%，公司预计第三季度核心销售额49亿至50亿美元，市场预估50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3140990",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "20时30分"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
@@ -1321,6 +1013,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728201416107800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
           "url": "https://flash.jin10.com/detail/20260728040127842800",
           "source": "金十数据",
@@ -1330,6 +1033,388 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "葛兰素史克第二季度调整后每股收益50.5便士，预期46.8便士。 第二季度营收84.1亿英镑，预期82.5亿英镑。 葛兰素史克仍预计全年按固定汇率计算销售额增长3%至5%。 葛兰素史克仍预计全年调整后每股收益增长7%至9%。 葛兰素史克仍预计全年调整后营业利润增长7%至9%。 葛兰素史克美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3140977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
+          "title": "PayPal第二季度调整后每股收益1.38美元，预估1.27美元。 第二季度净营收86.8亿美元，同比增长4.8%，预估84.6亿美元。 第二季度活跃客户账户数4.4亿，同比增长0.2%，预估4.4亿。 第二季度调整后运营收益15.1亿美元，同比下降8.3%，预估14.3亿美元。 第二季度调整后运营利润率17％，上年同期20％，预估16.9％。 第二季度调整后自由现金流18.3亿美元，上年同期6.56亿美元，预估15亿美元 PayPal预计全年调整后每股收益大约5.38美元，市场预估5.31美元。 PayPal仍然预测全年资本支出大约10亿美元，市场预估9.686亿美元。 PayPal美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3140976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
+          "title": "可口可乐第二季度净营收134亿美元。 第二季度可比每股收益0.97美元，预估0.93美元。 可口可乐预计全年可比每股收益增长9％至10％，此前预计8％至9％。 可口可乐仍然预测全年资本支出22亿美元，市场预估21.8亿美元。 可口可乐美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3140972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时05分]"
+        },
+        {
+          "title": "事关美国军机部署，伊朗第3次警告保加利亚",
+          "url": "https://news.ifeng.com/c/8v6pJifxdFC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 06时05分]"
+        },
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 07时53分]"
+        },
+        {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 07时53分]"
+        },
+        {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 20时30分]"
+        },
+        {
+          "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://news.ifeng.com/c/8v6m9Pp9uJ2",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 07时53分]"
+        },
+        {
+          "title": "对伊朗停火 美国是不打了还是打不了",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            22,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 07时53分]"
+        },
+        {
+          "title": "泽连斯基：与伊朗已处于战争中",
+          "url": "https://www.toutiao.com/trending/7667130069253013558/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
+          "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
+          "url": "https://flash.jin10.com/detail/20260728025702923800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 20时30分]"
+        },
+        {
+          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 20时30分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260728044945651800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
+          "url": "https://flash.jin10.com/detail/20260728044248647800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时30分]"
+        },
+        {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时30分]"
+        },
+        {
+          "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260728040942338800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "博主：泽连斯基早就对伊朗怀恨在心",
+          "url": "https://www.toutiao.com/trending/7667443070362717742/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "美称若谈判破裂将强力打击伊朗",
+          "url": "https://www.toutiao.com/trending/7667350797637652011/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "泽连斯基：与伊朗已处于战争中",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%A4%84%E4%BA%8E%E6%88%98%E4%BA%89%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
+          "url": "https://flash.jin10.com/detail/20260728005241733800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "泽连斯基：与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
+          "url": "https://wallstreetcn.com/livenews/3140435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "伊朗驻俄大使：乌克兰袭击伊朗船只是犯罪行为",
+          "url": "https://wallstreetcn.com/livenews/3140458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
+          "url": "https://wallstreetcn.com/livenews/3140434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时28分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：对美国罪行的调查将继续进行，即使需要15年时间。",
+          "url": "https://flash.jin10.com/detail/20260728020110622800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "据伊朗媒体FarsNews：伊拉克消息人士称，一架美国无人机在伊拉克西部安巴尔省被击落。",
+          "url": "https://flash.jin10.com/detail/20260728034720418800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "克里姆林宫：乌克兰对伊朗船只的攻击就是对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260728174837909800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "克里姆林宫：乌克兰炸毁了德国的北溪天然气管道，攻击中亚管道基础设施对哈萨克斯坦造成了伤害，并且现在又袭击了一艘伊朗船只。",
+          "url": "https://flash.jin10.com/detail/20260728174822967800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "德国央行称伊朗冲突冲击下 德国经济料仍实现增长",
+          "url": "https://wallstreetcn.com/livenews/3140969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         }
       ]
     },
@@ -1354,6 +1439,18 @@
           "time_info": "[01时27分 ~ 18时20分]"
         },
         {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时30分]"
+        },
+        {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3140521",
           "source": "华尔街见闻-快讯",
@@ -1363,17 +1460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
-        },
-        {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         }
       ]
     },
@@ -1428,11 +1514,12 @@
             1,
             7,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时27分 ~ 18时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时27分 ~ 20时30分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
