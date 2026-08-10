@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T18:56:20.899256+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2026-08-10T20:40:30.251851+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -31,6 +31,18 @@
           "time_info": "[00时20分 ~ 08时48分]"
         },
         {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时48分 ~ 20时40分]"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
           "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
           "source": "凤凰网",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 11时05分]"
-        },
-        {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 18时56分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -91,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 20时40分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -102,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时05分 ~ 18时56分]"
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 20时40分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -127,8 +127,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时40分]"
         },
         {
           "title": "美军基地遭袭，伊朗公布最新卫星对比图",
@@ -368,6 +368,17 @@
           "time_info": "[05时21分 ~ 06时18分]"
         },
         {
+          "title": "伊朗总统：我与最高领袖之间的会议持续7-8个小时",
+          "url": "https://flash.jin10.com/detail/20260810202700420800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "伊朗外交部发言人：我们正与地区所有国家就增进信任与内生安全机制进行对话。",
           "url": "https://flash.jin10.com/detail/20260810163121033800",
           "source": "金十数据",
@@ -421,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时05分"
+        },
+        {
+          "title": "伊朗总统：与最高领袖的会议持续了7-8小时。",
+          "url": "https://flash.jin10.com/detail/20260810201128279800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "据伊朗媒体报道，巴勒斯坦伊斯兰圣战组织谴责以色列总理内塔尼亚胡反对加沙15点计划的行为，称此举公然否认停火协议，并直接反对美国的计划。",
@@ -481,7 +503,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -509,6 +531,20 @@
           "time_info": "[01时21分 ~ 17时05分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时48分 ~ 20时40分]"
+        },
+        {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
           "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
           "source": "凤凰网",
@@ -520,20 +556,6 @@
           "time_info": "[00时20分 ~ 07时20分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 18时56分]"
-        },
-        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -543,8 +565,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时48分 ~ 18时56分]"
+          "appearance_count": 9,
+          "time_info": "[08时48分 ~ 20时40分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -554,8 +576,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 20时40分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 20时40分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -597,17 +630,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 18时56分]"
         },
         {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
@@ -652,11 +674,24 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时05分 ~ 20时40分]"
+        },
+        {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时05分 ~ 18时56分]"
+          "time_info": "[18时55分 ~ 20时40分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -669,17 +704,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时21分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -723,7 +747,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -734,7 +758,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -756,9 +780,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
+        },
+        {
+          "title": "特朗普为何突然力挺乌克兰",
+          "url": "https://www.toutiao.com/trending/7672320565192953350/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -808,7 +843,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -855,7 +890,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         },
@@ -881,6 +916,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "科技股延续涨势，美股盘前光模块集体走高，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "MarineMax美股盘前涨超45%。",
+          "url": "https://wallstreetcn.com/livenews/3147501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "英特尔美股盘前跌超3%，公司将发行150亿美元普通股，趁AI数据中心热潮之际融资",
+          "url": "https://wallstreetcn.com/livenews/3147494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "Meta美股盘前涨近3%，此前公司发布轻量化版AI模型，单张显卡即可运行。",
+          "url": "https://wallstreetcn.com/livenews/3147486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
+          "url": "https://flash.jin10.com/detail/20260810102945512800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：如果我现在在美联储，我会选择维持利率不变或降息。 人工智能或许是未来两年最重要的政策议题。 政府正在认真研究人工智能安全问题。 我不会接替丽莎·库克出任美联储理事。 我不会接替丽莎·库克出任美联储理事。 日元行动属于贝森特的职权范围，无可奉告。 沃什是再独立不过的人了。 无需为稳定日元而炮制美债理论。 稳定的日元有助于防止危机蔓延。 美国政府将持有英特尔股票多久，由特朗普决定。",
+          "url": "https://wallstreetcn.com/livenews/3147493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "巴克莱：日本投资者7月份减持美债 买入欧洲发达市场债券",
+          "url": "https://wallstreetcn.com/livenews/3147365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         }
       ]
     },
@@ -913,34 +1031,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债收益率逼近失控？贝森特连续出招，华尔街解读出“救债市”信号",
-          "url": "https://flash.jin10.com/detail/20260810102945512800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时05分"
-        },
-        {
-          "title": "巴克莱：日本投资者7月份减持美债 买入欧洲发达市场债券",
-          "url": "https://wallstreetcn.com/livenews/3147365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -955,8 +1045,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 20时40分]"
         }
       ]
     },
