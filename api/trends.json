@@ -1,8 +1,535 @@
 {
-  "generated_at": "2026-08-11T18:41:06.933120+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-08-11T19:37:01.803592+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 46,
+      "titles": [
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时58分 ~ 19时37分]"
+        },
+        {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时47分 ~ 19时37分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时58分 ~ 19时37分]"
+        },
+        {
+          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
+          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时14分]"
+        },
+        {
+          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时47分 ~ 10时59分]"
+        },
+        {
+          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
+          "url": "https://flash.jin10.com/detail/20260811001859720800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
+          "url": "https://wallstreetcn.com/livenews/3147668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗最高领袖任命6人担任高级军官",
+          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 14时44分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈了七八个小时",
+          "url": "https://news.ifeng.com/c/8vUUCRouqKj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
+          "url": "https://flash.jin10.com/detail/20260811031809186800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国财政部长曾吹嘘通过经济制裁“扼杀”了伊朗。这明显暴露出美国对制裁手段的强迫性依赖。",
+          "url": "https://flash.jin10.com/detail/20260811031731383800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "巴基斯坦内政部长抵达德黑兰进行会谈。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3148049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3148024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时37分]"
+        },
+        {
+          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
+          "url": "https://flash.jin10.com/detail/20260811045926051800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗总统之子反思伊朗国际形象",
+          "url": "https://www.toutiao.com/trending/7671499615899877402/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时44分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时44分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时14分]"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时14分]"
+        },
+        {
+          "title": "伊朗最高领袖将任命数名高级指挥官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 05时31分]"
+        },
+        {
+          "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
+          "url": "https://wallstreetcn.com/livenews/3147698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗称美以是造成中东地区动荡根源",
+          "url": "https://www.toutiao.com/trending/7671798549898657855/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
+          "url": "https://wallstreetcn.com/livenews/3147684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时25分]"
+        },
+        {
+          "title": "伊朗警告乌克兰：不赔偿就动手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时48分 ~ 17时49分]"
+        },
+        {
+          "title": "伊朗议会副议长：美国必须接受伊朗在霍尔木兹海峡建立的安排，这些安排已经为波斯湾带来了新的政治和军事秩序。",
+          "url": "https://flash.jin10.com/detail/20260811031317951800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "布伦特原油期货上涨4美元/桶，因伊朗与美国互相提出赔偿要求，霍尔木兹海峡重启希望减弱。",
+          "url": "https://flash.jin10.com/detail/20260811020633941800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔省长表示，针对美国和以色列袭击中遗留的未爆弹药，将于当地时间周二8时至12时，在布什尔空军基地附近开展专业化排除和销毁行动。相关爆炸属于可控爆破，民众无需担心。",
+          "url": "https://flash.jin10.com/detail/20260811031201658800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
+          "url": "https://wallstreetcn.com/livenews/3147604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
+          "url": "https://flash.jin10.com/detail/20260810235617403800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
+          "url": "https://flash.jin10.com/detail/20260810234432760800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：如果对方举起剑的同时要跟你谈话，请放心，它会毫不犹豫地砍向你。",
+          "url": "https://flash.jin10.com/detail/20260811170618535800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "市场消息：伊朗外交部长与德国外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260810234334198800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗最高领袖对武装部队进行新任命",
+          "url": "https://wallstreetcn.com/livenews/3147599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
+          "url": "https://flash.jin10.com/detail/20260810233849122800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长抵达德黑兰举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260811190244801800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "巴基斯坦方面表示，有关美国和伊朗的信号显示，双方“接近达成某种安排”。",
+          "url": "https://flash.jin10.com/detail/20260811190212334800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
+          "url": "https://flash.jin10.com/detail/20260810233716507800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗总统说与最高领袖会谈非常成功",
+          "url": "https://flash.jin10.com/detail/20260811124711617800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
+          "url": "https://flash.jin10.com/detail/20260811041240333800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "伊朗最高领袖将任命数名高级军事指挥官",
+          "url": "https://wallstreetcn.com/livenews/3147590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：任何觊觎伊朗岛屿的人，我们都将予以坚决打击。",
+          "url": "https://flash.jin10.com/detail/20260811011553614800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
+          "url": "https://flash.jin10.com/detail/20260811110335188800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
+          "url": "https://wallstreetcn.com/livenews/3147587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
+          "url": "https://wallstreetcn.com/livenews/3147616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 43,
@@ -15,8 +542,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时47分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[08时47分 ~ 19时37分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -29,8 +556,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 18时41分]"
+          "appearance_count": 12,
+          "time_info": "[10时58分 ~ 19时37分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -43,6 +570,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 10时59分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时44分 ~ 19时37分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -64,8 +602,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时47分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[08时47分 ~ 19时37分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -78,17 +616,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时41分 ~ 08时47分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时44分 ~ 18时41分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -500,499 +1027,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 43,
-      "titles": [
-        {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 18时41分]"
-        },
-        {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时47分 ~ 18时41分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时58分 ~ 18时41分]"
-        },
-        {
-          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
-          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 06时25分]"
-        },
-        {
-          "title": "伊朗的5个条件，美国是否会照单全收？",
-          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 03时47分]"
-        },
-        {
-          "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时14分]"
-        },
-        {
-          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
-          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时59分]"
-        },
-        {
-          "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
-          "url": "https://flash.jin10.com/detail/20260811001859720800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
-          "url": "https://wallstreetcn.com/livenews/3147668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
-          "url": "https://wallstreetcn.com/livenews/3148024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
-        },
-        {
-          "title": "伊朗最高领袖任命6人担任高级军官",
-          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "伊朗警告乌克兰不赔偿就动手",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时44分]"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈了七八个小时",
-          "url": "https://news.ifeng.com/c/8vUUCRouqKj",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
-          "url": "https://flash.jin10.com/detail/20260811031809186800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：美国财政部长曾吹嘘通过经济制裁“扼杀”了伊朗。这明显暴露出美国对制裁手段的强迫性依赖。",
-          "url": "https://flash.jin10.com/detail/20260811031731383800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
-          "url": "https://flash.jin10.com/detail/20260811045926051800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时25分]"
-        },
-        {
-          "title": "伊朗总统之子反思伊朗国际形象",
-          "url": "https://www.toutiao.com/trending/7671499615899877402/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 14时44分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 14时44分]"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈七八个小时",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%8E%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%B0%88%E4%B8%83%E5%85%AB%E4%B8%AA%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时14分]"
-        },
-        {
-          "title": "伊朗总统称最高领袖健康状况很好",
-          "url": "https://www.toutiao.com/trending/7672040770148417546/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时14分]"
-        },
-        {
-          "title": "伊朗最高领袖将任命数名高级指挥官",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时31分]"
-        },
-        {
-          "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
-          "url": "https://wallstreetcn.com/livenews/3147698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时25分]"
-        },
-        {
-          "title": "伊朗称美以是造成中东地区动荡根源",
-          "url": "https://www.toutiao.com/trending/7671798549898657855/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
-          "url": "https://wallstreetcn.com/livenews/3147684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时25分]"
-        },
-        {
-          "title": "伊朗警告乌克兰：不赔偿就动手",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "伊朗议会副议长：美国必须接受伊朗在霍尔木兹海峡建立的安排，这些安排已经为波斯湾带来了新的政治和军事秩序。",
-          "url": "https://flash.jin10.com/detail/20260811031317951800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "布伦特原油期货上涨4美元/桶，因伊朗与美国互相提出赔偿要求，霍尔木兹海峡重启希望减弱。",
-          "url": "https://flash.jin10.com/detail/20260811020633941800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗布什尔省长表示，针对美国和以色列袭击中遗留的未爆弹药，将于当地时间周二8时至12时，在布什尔空军基地附近开展专业化排除和销毁行动。相关爆炸属于可控爆破，民众无需担心。",
-          "url": "https://flash.jin10.com/detail/20260811031201658800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
-          "url": "https://wallstreetcn.com/livenews/3147604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗和巴基斯坦外长在通话中讨论霍尔木兹海谈判及防务协议。",
-          "url": "https://flash.jin10.com/detail/20260810235617403800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
-          "url": "https://flash.jin10.com/detail/20260810234432760800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：如果对方举起剑的同时要跟你谈话，请放心，它会毫不犹豫地砍向你。",
-          "url": "https://flash.jin10.com/detail/20260811170618535800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "市场消息：伊朗外交部长与德国外长通电话。",
-          "url": "https://flash.jin10.com/detail/20260810234334198800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗最高领袖对武装部队进行新任命",
-          "url": "https://wallstreetcn.com/livenews/3147599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
-          "url": "https://flash.jin10.com/detail/20260810233849122800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
-          "url": "https://flash.jin10.com/detail/20260810233716507800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗总统说与最高领袖会谈非常成功",
-          "url": "https://flash.jin10.com/detail/20260811124711617800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
-          "url": "https://flash.jin10.com/detail/20260811041240333800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "伊朗最高领袖将任命数名高级军事指挥官",
-          "url": "https://wallstreetcn.com/livenews/3147590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗革命卫队海军司令：任何觊觎伊朗岛屿的人，我们都将予以坚决打击。",
-          "url": "https://flash.jin10.com/detail/20260811011553614800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "“伊朗说了算”，海湾国家被迫接受霍尔木兹新常态",
-          "url": "https://flash.jin10.com/detail/20260811110335188800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
-          "url": "https://wallstreetcn.com/livenews/3147587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
-          "url": "https://wallstreetcn.com/livenews/3147616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
@@ -1004,8 +1038,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时47分 ~ 18时41分]"
+          "appearance_count": 13,
+          "time_info": "[08时47分 ~ 19时37分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -1246,9 +1280,71 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
+          "url": "https://wallstreetcn.com/livenews/3147629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "谷歌(GOOG.O)宣布在美洲地区扩展全球网络基础设施，新增三条海底光缆系统：Alisios、Cano​​a和Olaluz。",
+          "url": "https://flash.jin10.com/detail/20260811180342170800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "法国媒体机构全国新闻信息联盟：已向法国反垄断监管机构就谷歌(GOOG.O)的人工智能业务提出申诉。",
+          "url": "https://flash.jin10.com/detail/20260811185539534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "金价冲上4400美元 黄金股为何跳水",
+          "url": "https://www.toutiao.com/trending/7672685366725316123/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时40分 ~ 19时37分]"
+        },
         {
           "title": "国际金价周一涨1.1%，现货白银涨3.2%",
           "url": "https://wallstreetcn.com/livenews/3147700",
@@ -1260,17 +1356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时25分]"
-        },
-        {
-          "title": "金价冲上4400美元 黄金股为何跳水",
-          "url": "https://www.toutiao.com/trending/7672685366725316123/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 18时41分]"
         },
         {
           "title": "油价、收益率都在反扑，金价却站上4400等CPI发牌",
@@ -1297,48 +1382,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
         {
-          "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
-          "url": "https://wallstreetcn.com/livenews/3147629",
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "谷歌(GOOG.O)宣布在美洲地区扩展全球网络基础设施，新增三条海底光缆系统：Alisios、Cano​​a和Olaluz。",
-          "url": "https://flash.jin10.com/detail/20260811180342170800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时41分"
+          "time_info": "19时37分"
         },
-        {
-          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
-          "url": "https://wallstreetcn.com/livenews/3147721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
         {
           "title": "DeepSeek会偷偷给人取外号",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
