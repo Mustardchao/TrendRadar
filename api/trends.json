@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T13:22:53.032090+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-08-12T15:06:00.064116+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -87,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 15时06分]"
         },
         {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
@@ -99,8 +99,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 15时06分]"
+        },
+        {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 15时06分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 15时06分]"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -113,29 +136,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时34分]"
-        },
-        {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时22分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时22分]"
         },
         {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
@@ -180,7 +180,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -238,6 +238,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "巴基斯坦方面表示，巴基斯坦内政部长赴德黑兰会见伊朗官员并进行对话。",
+          "url": "https://flash.jin10.com/detail/20260812144920745800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "巴基斯坦方面表示，将继续推动美国与伊朗之间直接和间接的外交渠道。",
+          "url": "https://flash.jin10.com/detail/20260812144832050800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "伊朗最高国安委秘书：必须结束整个地区的战争，包括黎巴嫩与加沙。",
@@ -355,8 +377,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时30分 ~ 13时22分]"
+          "appearance_count": 6,
+          "time_info": "[06时30分 ~ 15时06分]"
         },
         {
           "title": "特朗普承认：悄悄换乘飞机了",
@@ -369,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 13时22分]"
+        },
+        {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 15时06分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -393,17 +426,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时28分]"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时22分]"
         },
         {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
@@ -533,6 +555,18 @@
           "time_info": "[00时44分 ~ 07时28分]"
         },
         {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 15时06分]"
+        },
+        {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
           "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
@@ -556,18 +590,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时44分 ~ 05时34分]"
-        },
-        {
-          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
-          "url": "https://www.cls.cn/detail/2451784",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 13时22分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -693,11 +715,12 @@
             9,
             4,
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 13时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 15时06分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -710,6 +733,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时06分]"
+        },
+        {
+          "title": "Chatgpt把Deepseek当宿敌了",
+          "url": "https://s.weibo.com/weibo?q=Chatgpt%E6%8A%8ADeepseek%E5%BD%93%E5%AE%BF%E6%95%8C%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时06分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -742,29 +789,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "Chatgpt把Deepseek当宿敌了",
-          "url": "https://s.weibo.com/weibo?q=Chatgpt%E6%8A%8ADeepseek%E5%BD%93%E5%AE%BF%E6%95%8C%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
@@ -958,7 +983,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
