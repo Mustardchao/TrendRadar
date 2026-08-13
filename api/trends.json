@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T11:22:49.462872+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-08-13T13:27:17.308052+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -168,6 +168,17 @@
           "time_info": "[03时55分 ~ 04时31分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
           "url": "https://flash.jin10.com/detail/20260813035525711800",
           "source": "金十数据",
@@ -190,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
@@ -216,15 +238,15 @@
           "time_info": "[00时45分 ~ 01时49分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
+          "title": "特朗普称“完全掌控”霍尔木兹，现实却狠狠打脸：通航量跌至近3个月低点",
+          "url": "https://flash.jin10.com/detail/20260813125705877800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "13时27分"
         },
         {
           "title": "“特朗普消息付费抢先看”服务引发交易机构抵制",
@@ -369,6 +391,17 @@
           "time_info": "[00时45分 ~ 08时57分]"
         },
         {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时27分]"
+        },
+        {
           "title": "DeepSeek发布V4Pro正式版",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -396,15 +429,41 @@
           "time_info": "[07时28分 ~ 08时57分]"
         },
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
           "ranks": [
+            9,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时27分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时27分]"
+        },
+        {
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时27分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -428,42 +487,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 07时29分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时22分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时22分]"
-        },
-        {
-          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
-          "url": "https://www.zhihu.com/question/2071019389479023642",
-          "source": "知乎",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时22分]"
         },
         {
           "title": "如何评价 Deepseek V4Pro 正式版（Deepseek-V4-Pro-0813）？",
@@ -509,7 +532,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -520,7 +543,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -535,11 +558,12 @@
           "url": "https://www.cls.cn/detail/2452897",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 11时22分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时27分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -550,8 +574,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 11时22分]"
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时27分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -679,11 +703,12 @@
           "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时27分]"
         },
         {
           "title": "伊朗：目前使用武器都是自主研发的",
@@ -725,6 +750,19 @@
           "time_info": "[03时55分 ~ 05时33分]"
         },
         {
+          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2452922",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时27分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260813033525851800",
           "source": "金十数据",
@@ -735,18 +773,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时31分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时22分]"
         },
         {
           "title": "伊朗波斯湾海峡管理局：美国官员声称并多次发布消息称霍尔木兹海峡已不再受阻，但这些说法并不能改变现实：霍尔木兹海峡仍处于封锁状态，除非伊朗提出的条件得到接受，否则该海峡不会重新开放。",
@@ -822,6 +848,18 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时28分 ~ 13时27分]"
+        },
+        {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
           "url": "https://flash.jin10.com/detail/20260813021710644800",
           "source": "金十数据",
@@ -856,17 +894,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时49分]"
-        },
-        {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 11时22分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -916,6 +943,58 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时27分]"
+        },
+        {
+          "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
+          "url": "https://wallstreetcn.com/livenews/3148749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时31分]"
+        },
+        {
+          "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
+          "url": "https://wallstreetcn.com/livenews/3148749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "短端加不动，长端压不住：美债如何破局？",
+          "url": "https://flash.jin10.com/detail/20260813122822904800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -937,11 +1016,12 @@
           "source": "微博",
           "ranks": [
             28,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 13时27分]"
         },
         {
           "title": "美国通胀数据温和，9月加息概率回落，黄金价格一度走高，多头占比现略微占优，白银多头占比进一步升至94%；IEA和欧佩克下调全球原油需求预期，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -950,49 +1030,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周三（8月12日）纽约尾盘，2年期至7年期美债收益率日内微跌，长端收益率基本持平。此前7月CPI数据表现温和，交易员小幅下调了对美联储未来几个月加息次数的押注。 美国10年期国债收益率涨0.21个基点，报4.684%。 两年期美债收益率跌0.64个基点，报4.197%；30年期美债收益率涨0.96个基点，报5.250%。 受美债标售及大宗交易推动，2年期与10年期美债收益率价差一度触及49个基点，创下5月中旬以来的最阔水平，曲线趋陡态势明显。 10年期通胀保值国债（TIPS）收益率跌0.56个基点，至2.414%；30年期TIPS收益率跌0.2个基点，至3.013%。",
-          "url": "https://wallstreetcn.com/livenews/3148749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时31分]"
-        },
-        {
-          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
-          "url": "https://www.cls.cn/detail/2452988",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
-          "url": "https://wallstreetcn.com/livenews/3148749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时33分"
+          "time_info": "11时22分"
         }
       ]
     },
