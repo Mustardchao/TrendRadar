@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:37:25.014389+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-08-14T23:40:58.881485+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -66,6 +66,17 @@
           "time_info": "[01时48分 ~ 07时30分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 23时40分]"
+        },
+        {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
           "url": "https://flash.jin10.com/detail/20260814040533982800",
           "source": "金十数据",
@@ -110,17 +121,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时56分 ~ 15时05分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 20时37分]"
         },
         {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
@@ -169,6 +169,17 @@
           "time_info": "[11时19分 ~ 15时05分]"
         },
         {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 23时40分]"
+        },
+        {
           "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
           "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
           "source": "凤凰网",
@@ -203,17 +214,6 @@
           "time_info": "[16时56分 ~ 16时57分]"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
           "url": "https://flash.jin10.com/detail/20260814065155550800",
           "source": "金十数据",
@@ -231,7 +231,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -267,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "特朗普请求美国最高法院允许其继续推进白宫宴会厅项目",
+          "url": "https://wallstreetcn.com/livenews/3149807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "澳大利亚总理阿尔巴尼斯：与美国总统特朗普谈及关税，敦促特朗普考虑给予全面豁免。",
@@ -357,6 +368,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "巴西总统卢拉说特朗普一直对他很好，很尊重他。",
+          "url": "https://flash.jin10.com/detail/20260814225853406800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "白宫：美国总统特朗普签署的备忘录指示五角大楼参照“芬兰模式”，加大对美国造船工业基础的直接投资。",
           "url": "https://flash.jin10.com/detail/20260814052933295800",
           "source": "金十数据",
@@ -366,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "巴西总统卢拉：我正在努力与特朗普对话，希望能与他保持联系，进行一对一的谈话。",
+          "url": "https://flash.jin10.com/detail/20260814225840596800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "白宫：美国总统特朗普已签署一份国家安全总统备忘录，旨在解决海军舰船建造与维修计划中长期存在的关键问题。",
@@ -426,22 +459,8 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时48分 ~ 20时37分]"
-        },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
           "url": "https://wallstreetcn.com/articles/3779377",
@@ -454,6 +473,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时48分 ~ 16时57分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            2,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时48分 ~ 23时40分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -688,6 +722,39 @@
           "time_info": "[15时04分 ~ 15时05分]"
         },
         {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "DeepSeek Codex Kimi实测对比",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Codex%20Kimi",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
           "url": "https://www.zhihu.com/question/2071225352072999482",
           "source": "知乎",
@@ -757,7 +824,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -887,6 +954,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
           "url": "https://flash.jin10.com/detail/20260814023025307800",
           "source": "金十数据",
@@ -1014,7 +1092,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1055,7 +1133,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -1113,6 +1191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
+          "url": "https://wallstreetcn.com/livenews/3149816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美股三大指数集体高开",
@@ -1180,6 +1269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -1316,7 +1416,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
@@ -1349,9 +1449,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 23时40分]"
+        },
+        {
+          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3149812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "23时40分"
         },
         {
           "title": "据悉OpenAI年化营收突破400亿美元",
@@ -1407,13 +1518,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "OpenAI首席财务官弗莱尔今日将召开投资者会议。",
+          "url": "https://flash.jin10.com/detail/20260814225245934800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 23时40分]"
+        },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
           "url": "https://www.cls.cn/detail/2453615",
@@ -1425,20 +1562,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 08时56分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 20时37分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
@@ -1463,6 +1586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260814230024749800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         }
       ]
     },
@@ -1517,7 +1651,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
