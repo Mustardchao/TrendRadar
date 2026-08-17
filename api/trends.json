@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T16:30:18.930975+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-08-17T18:20:39.763792+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -61,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时20分]"
         },
         {
           "title": "伊朗称正在起草与阿曼的海上航线计划",
@@ -71,9 +71,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "据伊朗方面报道：近期冲突中有超过200架敌方飞机被击落。",
+          "url": "https://flash.jin10.com/detail/20260817181726177800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
+          "url": "https://wallstreetcn.com/livenews/3150440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
@@ -172,6 +194,17 @@
           "time_info": "[05时10分 ~ 06时09分]"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时20分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
           "url": "https://flash.jin10.com/detail/20260817025702745800",
           "source": "金十数据",
@@ -211,17 +244,6 @@
           "time_info": "[04时10分 ~ 06时09分]"
         },
         {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
-        },
-        {
           "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
           "url": "https://flash.jin10.com/detail/20260817010814570800",
           "source": "金十数据",
@@ -239,9 +261,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：也门西部穆哈发生剧烈爆炸。也门武装部队发射数十枚弹道导弹和无人机，袭击了穆哈和马里卜地区亲沙特雇佣军的军事阵地及武器库。",
+          "url": "https://flash.jin10.com/detail/20260817181043126800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "伊朗战争，正在掏空美国弹药库",
@@ -272,7 +305,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -305,9 +338,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
+          "url": "https://flash.jin10.com/detail/20260817180213899800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "据沙特官方通讯社，吉赞地区已启动空袭警报。 此前，据伊朗塔斯尼姆通讯社称，沙特阿拉伯吉赞炼油厂附近传出爆炸声。",
@@ -327,7 +371,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -338,7 +382,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -349,7 +393,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -382,7 +426,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
@@ -390,7 +434,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -422,8 +466,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时20分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -448,6 +492,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181911430800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
           "url": "https://flash.jin10.com/detail/20260817051255445800",
           "source": "金十数据",
@@ -459,6 +514,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181853245800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。",
           "url": "https://flash.jin10.com/detail/20260817050745376800",
           "source": "金十数据",
@@ -468,6 +534,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时20分]"
+        },
+        {
+          "title": "特朗普为何关键时刻与韩国作对",
+          "url": "https://www.toutiao.com/trending/7674921028065168932/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
@@ -555,26 +644,16 @@
           "time_info": "[04时10分 ~ 06时09分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
-        },
-        {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
           "url": "https://www.zhihu.com/question/2072595818725336495",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时20分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
@@ -630,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-17）",
+          "url": "https://flash.jin10.com/detail/20260817181137295800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普为何要求航母改回蒸汽弹射",
@@ -704,7 +794,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
@@ -792,11 +882,12 @@
           "url": "https://www.zhihu.com/question/2072598571090538898",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时20分]"
         },
         {
           "title": "DeepSeek Harness 有什么好用的插件？",
@@ -824,7 +915,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -847,6 +938,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 06时09分]"
+        },
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
@@ -859,11 +961,12 @@
           "url": "https://wallstreetcn.com/articles/3779560",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时20分]"
         }
       ]
     },
@@ -878,7 +981,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
@@ -895,7 +998,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
