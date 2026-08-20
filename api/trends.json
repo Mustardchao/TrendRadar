@@ -1,585 +1,166 @@
 {
-  "generated_at": "2026-08-18T19:15:56.246157+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-08-20T12:26:00.936356+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时31分 ~ 19时15分]"
-        },
-        {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
+          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
           "source": "凤凰网",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "特朗普支持率创下其第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "title": "特朗普宣布对伊朗发起空前经济战",
+          "url": "https://www.toutiao.com/trending/7675885516922818089/",
           "source": "今日头条",
           "ranks": [
-            6,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
-          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "特朗普被曝自己也通过邮寄选票投票",
-          "url": "https://www.toutiao.com/trending/7675157131825905718/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "特朗普称金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
-          "url": "https://www.cls.cn/detail/2456722",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "特朗普将宣布霍尔木兹为美国领土",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "大V：特朗普“金蝉脱壳”是政治失算",
-          "url": "https://www.toutiao.com/trending/7675011910084857394/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "民调亮起红灯！特朗普支持率跌至第二任期最低点",
-          "url": "https://flash.jin10.com/detail/20260818074806898800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "民调显示特朗普支持率创第二任期内新低",
-          "url": "https://wallstreetcn.com/livenews/3150715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "美媒：特朗普政府拟放宽枪支限制",
-          "url": "https://www.toutiao.com/trending/7674469018195607602/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
-          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
-          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 16时22分]"
-        },
-        {
-          "title": "为向伊朗革命卫队传话，美国找了谁？",
-          "url": "https://news.ifeng.com/c/8vfjQXLe7At",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "伊朗革命卫队总司令顾问纳格迪：霍尔木兹海峡永远不会失去其重要性，如果其他人想寻找替代路线来运输石油等物资，那需要很多年，并产生非常沉重的成本。",
-          "url": "https://flash.jin10.com/detail/20260818161637628800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗加大霍尔木兹海峡控制力度 一艘燃料运输船反复掉头后停驶",
-          "url": "https://wallstreetcn.com/livenews/3150948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
-          "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
-          "url": "https://news.ifeng.com/c/8vflJ04ITGN",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "伊朗议会能源委员会发言人：伊朗坐拥能源宝库。",
-          "url": "https://flash.jin10.com/detail/20260818160256476800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗议会能源委员会发言人： 政府正在就确定第四档汽油价格进行讨论和研究。",
-          "url": "https://flash.jin10.com/detail/20260818160247328800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "伊朗议会能源委员会发言人：政府在汽油方面的计划是采用非价格手段。",
-          "url": "https://flash.jin10.com/detail/20260818160241178800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "卡塔尔外交部发言人：我们拒绝伊朗将卡塔尔卷入其内部问题。",
-          "url": "https://flash.jin10.com/detail/20260818182648304800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时31分 ~ 19时15分]"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时15分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
-          "url": "https://www.cls.cn/detail/2457199",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
+          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+          "url": "https://wallstreetcn.com/articles/3779827",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
-          "title": "新闻交易员：美债收益率飙升，不只是债市发脾气",
-          "url": "https://flash.jin10.com/detail/20260818080529885800",
-          "source": "金十数据",
+          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
+          "url": "https://www.cls.cn/detail/2458963",
+          "source": "财联社热门",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
-          "title": "30年期美债收益率升至近20年高位！海外买家同步减持",
-          "url": "https://flash.jin10.com/detail/20260818072945690800",
-          "source": "金十数据",
+          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
+          "url": "https://www.cls.cn/detail/2458955",
+          "source": "财联社热门",
           "ranks": [
-            26
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股盘前，存储芯片股普跌，闪迪跌约4%，西部数据跌约4%，美光科技、SK海力士跌约3%。",
-          "url": "https://wallstreetcn.com/livenews/3150946",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3779750",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
+          "url": "https://www.cls.cn/detail/2458921",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
+          "url": "https://www.cls.cn/detail/2458911",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
+          "url": "https://www.cls.cn/detail/2458966",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "长期美债收益率应声下跌！美财政部将长债回购上限提高至少一倍",
+          "url": "https://wallstreetcn.com/articles/3779819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
+        },
+        {
+          "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
+          "url": "https://wallstreetcn.com/articles/3779782",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         },
         {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.toutiao.com/trending/7675142828237786670/",
-          "source": "今日头条",
+          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
+          "url": "https://wallstreetcn.com/articles/3779843",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "李大霄谈美股融资潮",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E8%9E%8D%E8%B5%84%E6%BD%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek Harness满血版解锁",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时31分"
-        },
-        {
-          "title": "DeepSeek招聘土木人才释放一个信号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月18日（周二）上海金午盘价为953.88元/克，较国际金价(952.17元/克)，高1.71元/克",
-          "url": "https://flash.jin10.com/detail/20260818161036118800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "油价上涨及美债收益率走高，令金价承压",
-          "url": "https://flash.jin10.com/detail/20260818160735235800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 12时26分]"
         }
       ]
     },
@@ -588,32 +169,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
-          "url": "https://flash.jin10.com/detail/20260818072606933800",
-          "source": "金十数据",
+          "title": "王兴兴：具身智能的“ChatGPT时刻”最快2到3年，最慢5到10年到来",
+          "url": "https://wallstreetcn.com/livenews/3152065",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时31分"
+          "time_info": "12时26分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
-          "source": "财联社热门",
+          "title": "美国长债回购上限翻倍，金价4500之上在提前交易什么？",
+          "url": "https://flash.jin10.com/detail/20260820113216686800",
+          "source": "金十数据",
           "ranks": [
-            1
+            25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时31分 ~ 16时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     }
